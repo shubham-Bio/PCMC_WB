@@ -1,0 +1,11 @@
+
+2021-01-21 18:07:39.683	Status	In loadPendingJobs
+2021-01-21 18:07:39.688	Status	In OpenConnection
+2021-01-21 18:07:39.809	Status	DbConnection open successfully
+2021-01-21 18:07:39.826	Status	Pending Jobs loaded successfully
+2021-01-21 18:07:39.832	Status	Connection closed successfully
+2021-01-21 18:07:39.836	Status	In loadCompletedJobs
+2021-01-21 18:07:39.840	Status	In OpenConnection
+2021-01-21 18:07:39.845	Status	DbConnection open successfully
+2021-01-21 18:07:39.930	Status	Completed Jobs loaded successfully
+2021-01-21 18:07:39.934	Status	Connection closed successfully

@@ -1,0 +1,1320 @@
+
+2021-01-22 12:01:05.766	Status	In OpenConnection
+2021-01-22 12:01:08.445	Status	DbConnection open successfully
+2021-01-22 12:01:08.466	Status	In OpenConnection
+2021-01-22 12:01:08.471	Status	DbConnection open successfully
+2021-01-22 12:01:08.491	Status	In loadPendingJobs
+2021-01-22 12:01:08.496	Status	In OpenConnection
+2021-01-22 12:01:08.501	Status	DbConnection open successfully
+2021-01-22 12:01:08.511	Status	Pending Jobs loaded successfully
+2021-01-22 12:01:08.516	Status	Connection closed successfully
+2021-01-22 12:01:08.521	Status	In loadCompletedJobs
+2021-01-22 12:01:08.525	Status	In OpenConnection
+2021-01-22 12:01:08.529	Status	DbConnection open successfully
+2021-01-22 12:01:08.626	Status	Completed Jobs loaded successfully
+2021-01-22 12:01:08.631	Status	Connection closed successfully
+2021-01-22 12:03:32.497	Status	In OpenConnection
+2021-01-22 12:03:34.949	Status	DbConnection open successfully
+2021-01-22 12:03:34.967	Status	In OpenConnection
+2021-01-22 12:03:34.971	Status	DbConnection open successfully
+2021-01-22 12:03:34.991	Status	In loadPendingJobs
+2021-01-22 12:03:34.995	Status	In OpenConnection
+2021-01-22 12:03:35.000	Status	DbConnection open successfully
+2021-01-22 12:03:35.009	Status	Pending Jobs loaded successfully
+2021-01-22 12:03:35.013	Status	Connection closed successfully
+2021-01-22 12:03:35.017	Status	In loadCompletedJobs
+2021-01-22 12:03:35.021	Status	In OpenConnection
+2021-01-22 12:03:35.025	Status	DbConnection open successfully
+2021-01-22 12:03:35.112	Status	Completed Jobs loaded successfully
+2021-01-22 12:03:35.116	Status	Connection closed successfully
+2021-01-22 12:05:04.147	Status	In OpenConnection
+2021-01-22 12:05:12.813	Status	DbConnection open successfully
+2021-01-22 12:05:12.831	Status	In OpenConnection
+2021-01-22 12:05:12.836	Status	DbConnection open successfully
+2021-01-22 12:05:12.856	Status	In loadPendingJobs
+2021-01-22 12:05:12.861	Status	In OpenConnection
+2021-01-22 12:05:12.865	Status	DbConnection open successfully
+2021-01-22 12:05:12.874	Status	Pending Jobs loaded successfully
+2021-01-22 12:05:12.878	Status	Connection closed successfully
+2021-01-22 12:05:12.884	Status	In loadCompletedJobs
+2021-01-22 12:05:12.890	Status	In OpenConnection
+2021-01-22 12:05:12.895	Status	DbConnection open successfully
+2021-01-22 12:05:12.996	Status	Completed Jobs loaded successfully
+2021-01-22 12:05:13.001	Status	Connection closed successfully
+2021-01-22 12:06:10.355	Status	In StartTimerFor_RFIDReader()
+2021-01-22 12:06:11.234	Status	GetDataReader1 called..
+2021-01-22 12:06:11.917	Status	GetDataReader1 called..
+2021-01-22 12:06:12.525	Status	GetDataReader1 called..
+2021-01-22 12:06:13.066	Status	GetDataReader1 called..
+2021-01-22 12:06:13.294	Status	GetDataReader1 called..
+2021-01-22 12:06:13.485	Status	GetDataReader1 called..
+2021-01-22 12:06:13.652	Status	GetDataReader1 called..
+2021-01-22 12:06:13.829	Status	GetDataReader1 called..
+2021-01-22 12:06:14.002	Status	GetDataReader1 called..
+2021-01-22 12:06:16.829	Status	GetDataReader1 called..
+2021-01-22 12:06:16.935	Status	GetDataReader1 called..
+2021-01-22 12:06:17.049	Status	GetDataReader1 called..
+2021-01-22 12:06:17.158	Status	GetDataReader1 called..
+2021-01-22 12:06:17.265	Status	GetDataReader1 called..
+2021-01-22 12:06:17.372	Status	GetDataReader1 called..
+2021-01-22 12:06:17.481	Status	GetDataReader1 called..
+2021-01-22 12:06:17.596	Status	GetDataReader1 called..
+2021-01-22 12:06:17.703	Status	GetDataReader1 called..
+2021-01-22 12:06:17.810	Status	GetDataReader1 called..
+2021-01-22 12:06:17.924	Status	GetDataReader1 called..
+2021-01-22 12:06:18.032	Status	GetDataReader1 called..
+2021-01-22 12:06:18.139	Status	GetDataReader1 called..
+2021-01-22 12:06:18.253	Status	GetDataReader1 called..
+2021-01-22 12:06:18.372	Status	GetDataReader1 called..
+2021-01-22 12:06:18.488	Status	GetDataReader1 called..
+2021-01-22 12:06:18.596	Status	GetDataReader1 called..
+2021-01-22 12:06:18.704	Status	GetDataReader1 called..
+2021-01-22 12:06:18.811	Status	GetDataReader1 called..
+2021-01-22 12:06:18.918	Status	GetDataReader1 called..
+2021-01-22 12:06:19.035	Status	GetDataReader1 called..
+2021-01-22 12:06:19.143	Status	GetDataReader1 called..
+2021-01-22 12:06:19.251	Status	GetDataReader1 called..
+2021-01-22 12:06:19.359	Status	GetDataReader1 called..
+2021-01-22 12:06:19.483	Status	GetDataReader1 called..
+2021-01-22 12:06:19.591	Status	GetDataReader1 called..
+2021-01-22 12:06:19.706	Status	GetDataReader1 called..
+2021-01-22 12:06:19.814	Status	GetDataReader1 called..
+2021-01-22 12:06:19.934	Status	GetDataReader1 called..
+2021-01-22 12:06:20.048	Status	GetDataReader1 called..
+2021-01-22 12:06:20.157	Status	GetDataReader1 called..
+2021-01-22 12:06:20.280	Status	GetDataReader1 called..
+2021-01-22 12:06:20.394	Status	GetDataReader1 called..
+2021-01-22 12:06:20.502	Status	GetDataReader1 called..
+2021-01-22 12:06:20.611	Status	GetDataReader1 called..
+2021-01-22 12:06:20.717	Status	GetDataReader1 called..
+2021-01-22 12:06:20.825	Status	GetDataReader1 called..
+2021-01-22 12:06:20.939	Status	GetDataReader1 called..
+2021-01-22 12:06:21.061	Status	GetDataReader1 called..
+2021-01-22 12:06:21.174	Status	GetDataReader1 called..
+2021-01-22 12:06:21.283	Status	GetDataReader1 called..
+2021-01-22 12:06:21.390	Status	GetDataReader1 called..
+2021-01-22 12:06:21.498	Status	GetDataReader1 called..
+2021-01-22 12:06:21.606	Status	GetDataReader1 called..
+2021-01-22 12:06:21.720	Status	GetDataReader1 called..
+2021-01-22 12:06:21.846	Status	GetDataReader1 called..
+2021-01-22 12:06:21.954	Status	GetDataReader1 called..
+2021-01-22 12:06:22.062	Status	GetDataReader1 called..
+2021-01-22 12:06:22.185	Status	GetDataReader1 called..
+2021-01-22 12:06:22.300	Status	GetDataReader1 called..
+2021-01-22 12:06:22.408	Status	GetDataReader1 called..
+2021-01-22 12:06:22.530	Status	GetDataReader1 called..
+2021-01-22 12:06:22.637	Status	GetDataReader1 called..
+2021-01-22 12:06:22.752	Status	GetDataReader1 called..
+2021-01-22 12:06:22.873	Status	GetDataReader1 called..
+2021-01-22 12:06:23.001	Status	GetDataReader1 called..
+2021-01-22 12:06:23.108	Status	GetDataReader1 called..
+2021-01-22 12:06:23.215	Status	GetDataReader1 called..
+2021-01-22 12:06:23.329	Status	GetDataReader1 called..
+2021-01-22 12:06:23.435	Status	GetDataReader1 called..
+2021-01-22 12:06:23.550	Status	GetDataReader1 called..
+2021-01-22 12:06:23.658	Status	GetDataReader1 called..
+2021-01-22 12:06:23.767	Status	GetDataReader1 called..
+2021-01-22 12:06:23.889	Status	GetDataReader1 called..
+2021-01-22 12:06:23.997	Status	GetDataReader1 called..
+2021-01-22 12:06:24.113	Status	GetDataReader1 called..
+2021-01-22 12:06:24.219	Status	GetDataReader1 called..
+2021-01-22 12:06:24.327	Status	GetDataReader1 called..
+2021-01-22 12:06:24.440	Status	GetDataReader1 called..
+2021-01-22 12:06:24.548	Status	GetDataReader1 called..
+2021-01-22 12:06:24.657	Status	GetDataReader1 called..
+2021-01-22 12:06:24.765	Status	GetDataReader1 called..
+2021-01-22 12:06:24.872	Status	GetDataReader1 called..
+2021-01-22 12:06:24.981	Status	GetDataReader1 called..
+2021-01-22 12:06:25.096	Status	GetDataReader1 called..
+2021-01-22 12:06:25.203	Status	GetDataReader1 called..
+2021-01-22 12:06:25.310	Status	GetDataReader1 called..
+2021-01-22 12:06:25.418	Status	GetDataReader1 called..
+2021-01-22 12:06:25.534	Status	GetDataReader1 called..
+2021-01-22 12:06:25.642	Status	GetDataReader1 called..
+2021-01-22 12:06:25.749	Status	GetDataReader1 called..
+2021-01-22 12:06:25.858	Status	GetDataReader1 called..
+2021-01-22 12:06:25.971	Status	GetDataReader1 called..
+2021-01-22 12:06:26.078	Status	GetDataReader1 called..
+2021-01-22 12:06:26.186	Status	GetDataReader1 called..
+2021-01-22 12:06:26.294	Status	GetDataReader1 called..
+2021-01-22 12:06:26.403	Status	GetDataReader1 called..
+2021-01-22 12:06:26.518	Status	GetDataReader1 called..
+2021-01-22 12:06:26.625	Status	GetDataReader1 called..
+2021-01-22 12:06:26.747	Status	GetDataReader1 called..
+2021-01-22 12:06:26.863	Status	GetDataReader1 called..
+2021-01-22 12:06:26.971	Status	GetDataReader1 called..
+2021-01-22 12:06:27.078	Status	GetDataReader1 called..
+2021-01-22 12:06:27.187	Status	GetDataReader1 called..
+2021-01-22 12:06:27.295	Status	GetDataReader1 called..
+2021-01-22 12:06:27.421	Status	GetDataReader1 called..
+2021-01-22 12:06:27.531	Status	GetDataReader1 called..
+2021-01-22 12:06:27.638	Status	GetDataReader1 called..
+2021-01-22 12:06:27.752	Status	GetDataReader1 called..
+2021-01-22 12:06:27.861	Status	GetDataReader1 called..
+2021-01-22 12:06:27.967	Status	GetDataReader1 called..
+2021-01-22 12:06:28.080	Status	GetDataReader1 called..
+2021-01-22 12:06:28.187	Status	GetDataReader1 called..
+2021-01-22 12:06:28.311	Status	GetDataReader1 called..
+2021-01-22 12:06:28.418	Status	GetDataReader1 called..
+2021-01-22 12:06:28.535	Status	GetDataReader1 called..
+2021-01-22 12:06:28.654	Status	GetDataReader1 called..
+2021-01-22 12:06:28.768	Status	GetDataReader1 called..
+2021-01-22 12:06:28.891	Status	GetDataReader1 called..
+2021-01-22 12:06:29.012	Status	GetDataReader1 called..
+2021-01-22 12:06:29.127	Status	GetDataReader1 called..
+2021-01-22 12:22:58.440	Status	RFID Reader Connected successfully
+2021-01-22 12:22:58.466	Status	In StartTimerFor_Uploading_Images()
+2021-01-22 12:23:19.646	Status	RFID Reader Connected successfully
+2021-01-22 12:23:19.710	Status	In StartTimerFor_Uploading_Images()
+2021-01-22 12:23:21.634	Status	Uploading images Timer : 10 Seconds
+2021-01-22 12:23:22.681	Status	In setLatestSlipNo
+2021-01-22 12:23:22.688	Status	In OpenConnection
+2021-01-22 12:23:24.474	Status	DbConnection open successfully
+2021-01-22 12:23:24.507	Status	setLatestSlipNo successfully
+2021-01-22 12:23:24.513	Status	In OpenConnection
+2021-01-22 12:23:24.518	Status	DbConnection open successfully
+2021-01-22 12:23:24.530	Status	In OpenConnection
+2021-01-22 12:23:24.535	Status	DbConnection open successfully
+2021-01-22 12:23:24.555	Status	In loadPendingJobs
+2021-01-22 12:23:24.560	Status	In OpenConnection
+2021-01-22 12:23:24.565	Status	DbConnection open successfully
+2021-01-22 12:23:24.573	Status	Pending Jobs loaded successfully
+2021-01-22 12:23:24.578	Status	Connection closed successfully
+2021-01-22 12:23:24.583	Status	In loadCompletedJobs
+2021-01-22 12:23:24.587	Status	In OpenConnection
+2021-01-22 12:23:24.592	Status	DbConnection open successfully
+2021-01-22 12:23:24.688	Status	Completed Jobs loaded successfully
+2021-01-22 12:23:24.692	Status	Connection closed successfully
+2021-01-22 12:23:32.367	Status	Timer Triggered Image Upload
+2021-01-22 12:23:32.408	Error	Error in GetImageAnd_PostToWebservice()Could not find a part of the path 'D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\bin\Debug\cctvimages'.
+2021-01-22 12:23:42.416	Status	Timer Triggered Image Upload
+2021-01-22 12:23:42.437	Error	Error in GetImageAnd_PostToWebservice()Could not find a part of the path 'D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\bin\Debug\cctvimages'.
+2021-01-22 12:23:52.452	Status	Timer Triggered Image Upload
+2021-01-22 12:23:52.478	Error	Error in GetImageAnd_PostToWebservice()Could not find a part of the path 'D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\bin\Debug\cctvimages'.
+2021-01-22 12:24:02.485	Status	Timer Triggered Image Upload
+2021-01-22 12:24:02.501	Error	Error in GetImageAnd_PostToWebservice()Could not find a part of the path 'D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\bin\Debug\cctvimages'.
+2021-01-22 12:24:35.220	Status	RFID Reader Connected successfully
+2021-01-22 12:24:41.740	Status	In StartTimerFor_Uploading_Images()
+2021-01-22 12:24:43.855	Status	Uploading images Timer : 10 Seconds
+2021-01-22 12:24:44.418	Status	In setLatestSlipNo
+2021-01-22 12:24:44.424	Status	In OpenConnection
+2021-01-22 12:24:46.119	Status	DbConnection open successfully
+2021-01-22 12:24:46.136	Status	setLatestSlipNo successfully
+2021-01-22 12:24:46.143	Status	In OpenConnection
+2021-01-22 12:24:46.147	Status	DbConnection open successfully
+2021-01-22 12:24:46.159	Status	In OpenConnection
+2021-01-22 12:24:46.164	Status	DbConnection open successfully
+2021-01-22 12:24:46.186	Status	In loadPendingJobs
+2021-01-22 12:24:46.191	Status	In OpenConnection
+2021-01-22 12:24:46.195	Status	DbConnection open successfully
+2021-01-22 12:24:46.204	Status	Pending Jobs loaded successfully
+2021-01-22 12:24:46.209	Status	Connection closed successfully
+2021-01-22 12:24:46.214	Status	In loadCompletedJobs
+2021-01-22 12:24:46.218	Status	In OpenConnection
+2021-01-22 12:24:46.223	Status	DbConnection open successfully
+2021-01-22 12:24:46.308	Status	Completed Jobs loaded successfully
+2021-01-22 12:24:46.312	Status	Connection closed successfully
+2021-01-22 12:24:54.431	Status	Timer Triggered Image Upload
+2021-01-22 12:24:54.458	Error	Error in GetImageAnd_PostToWebservice()Could not find a part of the path 'D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\bin\Debug\cctvimages'.
+2021-01-22 12:25:00.488	Status	In StartTimerFor_RFIDReader()
+2021-01-22 12:25:00.608	Status	GetDataReader1 called..
+2021-01-22 12:25:00.718	Status	GetDataReader1 called..
+2021-01-22 12:25:00.826	Status	GetDataReader1 called..
+2021-01-22 12:25:00.940	Status	GetDataReader1 called..
+2021-01-22 12:25:01.059	Status	GetDataReader1 called..
+2021-01-22 12:25:01.174	Status	GetDataReader1 called..
+2021-01-22 12:25:01.283	Status	GetDataReader1 called..
+2021-01-22 12:25:01.404	Status	GetDataReader1 called..
+2021-01-22 12:25:01.518	Status	GetDataReader1 called..
+2021-01-22 12:25:01.625	Status	GetDataReader1 called..
+2021-01-22 12:25:01.734	Status	GetDataReader1 called..
+2021-01-22 12:25:01.842	Status	GetDataReader1 called..
+2021-01-22 12:25:01.955	Status	GetDataReader1 called..
+2021-01-22 12:25:02.078	Status	GetDataReader1 called..
+2021-01-22 12:25:02.202	Status	GetDataReader1 called..
+2021-01-22 12:25:02.327	Status	GetDataReader1 called..
+2021-01-22 12:25:02.451	Status	GetDataReader1 called..
+2021-01-22 12:25:02.559	Status	GetDataReader1 called..
+2021-01-22 12:25:02.674	Status	GetDataReader1 called..
+2021-01-22 12:25:02.782	Status	GetDataReader1 called..
+2021-01-22 12:25:02.890	Status	GetDataReader1 called..
+2021-01-22 12:25:02.997	Status	GetDataReader1 called..
+2021-01-22 12:25:03.112	Status	GetDataReader1 called..
+2021-01-22 12:25:03.219	Status	GetDataReader1 called..
+2021-01-22 12:25:03.326	Status	GetDataReader1 called..
+2021-01-22 12:25:03.450	Status	GetDataReader1 called..
+2021-01-22 12:25:03.565	Status	GetDataReader1 called..
+2021-01-22 12:25:03.673	Status	GetDataReader1 called..
+2021-01-22 12:25:03.794	Status	GetDataReader1 called..
+2021-01-22 12:25:03.903	Status	GetDataReader1 called..
+2021-01-22 12:25:04.016	Status	GetDataReader1 called..
+2021-01-22 12:25:04.138	Status	GetDataReader1 called..
+2021-01-22 12:25:04.252	Status	GetDataReader1 called..
+2021-01-22 12:25:04.360	Status	GetDataReader1 called..
+2021-01-22 12:25:04.468	Status	GetDataReader1 called..
+2021-01-22 12:25:04.520	Error	Error in GetImageAnd_PostToWebservice()Could not find a part of the path 'D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\bin\Debug\cctvimages'.
+2021-01-22 12:25:04.613	Status	GetDataReader1 called..
+2021-01-22 12:25:04.721	Status	GetDataReader1 called..
+2021-01-22 12:25:04.841	Status	GetDataReader1 called..
+2021-01-22 12:25:04.955	Status	GetDataReader1 called..
+2021-01-22 12:25:05.065	Status	GetDataReader1 called..
+2021-01-22 12:25:05.173	Status	GetDataReader1 called..
+2021-01-22 12:25:05.281	Status	GetDataReader1 called..
+2021-01-22 12:25:05.404	Status	GetDataReader1 called..
+2021-01-22 12:25:05.519	Status	GetDataReader1 called..
+2021-01-22 12:25:05.626	Status	GetDataReader1 called..
+2021-01-22 12:25:05.734	Status	GetDataReader1 called..
+2021-01-22 12:25:05.858	Status	GetDataReader1 called..
+2021-01-22 12:25:05.982	Status	GetDataReader1 called..
+2021-01-22 12:25:06.107	Status	GetDataReader1 called..
+2021-01-22 12:25:06.220	Status	GetDataReader1 called..
+2021-01-22 12:25:06.328	Status	GetDataReader1 called..
+2021-01-22 12:25:06.436	Status	GetDataReader1 called..
+2021-01-22 12:25:06.549	Status	GetDataReader1 called..
+2021-01-22 12:25:06.658	Status	GetDataReader1 called..
+2021-01-22 12:25:06.766	Status	GetDataReader1 called..
+2021-01-22 12:25:06.888	Status	GetDataReader1 called..
+2021-01-22 12:25:07.003	Status	GetDataReader1 called..
+2021-01-22 12:25:07.112	Status	GetDataReader1 called..
+2021-01-22 12:25:07.219	Status	GetDataReader1 called..
+2021-01-22 12:25:07.327	Status	GetDataReader1 called..
+2021-01-22 12:25:07.450	Status	GetDataReader1 called..
+2021-01-22 12:25:07.565	Status	GetDataReader1 called..
+2021-01-22 12:25:07.672	Status	GetDataReader1 called..
+2021-01-22 12:25:07.779	Status	GetDataReader1 called..
+2021-01-22 12:25:07.888	Status	GetDataReader1 called..
+2021-01-22 12:25:08.001	Status	GetDataReader1 called..
+2021-01-22 12:25:08.108	Status	GetDataReader1 called..
+2021-01-22 12:25:08.231	Status	GetDataReader1 called..
+2021-01-22 12:25:08.343	Status	GetDataReader1 called..
+2021-01-22 12:25:08.451	Status	GetDataReader1 called..
+2021-01-22 12:25:08.566	Status	GetDataReader1 called..
+2021-01-22 12:25:08.673	Status	GetDataReader1 called..
+2021-01-22 12:25:08.782	Status	GetDataReader1 called..
+2021-01-22 12:25:08.905	Status	GetDataReader1 called..
+2021-01-22 12:25:09.019	Status	GetDataReader1 called..
+2021-01-22 12:25:09.127	Status	GetDataReader1 called..
+2021-01-22 12:25:09.249	Status	GetDataReader1 called..
+2021-01-22 12:25:09.372	Status	GetDataReader1 called..
+2021-01-22 12:25:09.481	Status	GetDataReader1 called..
+2021-01-22 12:25:09.594	Status	GetDataReader1 called..
+2021-01-22 12:25:09.701	Status	GetDataReader1 called..
+2021-01-22 12:25:09.827	Status	GetDataReader1 called..
+2021-01-22 12:25:09.935	Status	GetDataReader1 called..
+2021-01-22 12:25:10.050	Status	GetDataReader1 called..
+2021-01-22 12:25:10.159	Status	GetDataReader1 called..
+2021-01-22 12:25:10.266	Status	GetDataReader1 called..
+2021-01-22 12:25:10.374	Status	GetDataReader1 called..
+2021-01-22 12:25:10.481	Status	GetDataReader1 called..
+2021-01-22 12:25:10.596	Status	GetDataReader1 called..
+2021-01-22 12:25:10.703	Status	GetDataReader1 called..
+2021-01-22 12:25:10.811	Status	GetDataReader1 called..
+2021-01-22 12:25:10.934	Status	GetDataReader1 called..
+2021-01-22 12:25:11.048	Status	GetDataReader1 called..
+2021-01-22 12:25:11.170	Status	GetDataReader1 called..
+2021-01-22 12:25:11.278	Status	GetDataReader1 called..
+2021-01-22 12:25:11.392	Status	GetDataReader1 called..
+2021-01-22 12:25:11.500	Status	GetDataReader1 called..
+2021-01-22 12:25:11.608	Status	GetDataReader1 called..
+2021-01-22 12:25:11.722	Status	GetDataReader1 called..
+2021-01-22 12:25:11.830	Status	GetDataReader1 called..
+2021-01-22 12:25:11.937	Status	GetDataReader1 called..
+2021-01-22 12:25:12.044	Status	GetDataReader1 called..
+2021-01-22 12:25:12.160	Status	GetDataReader1 called..
+2021-01-22 12:25:12.282	Status	GetDataReader1 called..
+2021-01-22 12:25:12.405	Status	GetDataReader1 called..
+2021-01-22 12:25:12.529	Status	GetDataReader1 called..
+2021-01-22 12:25:12.642	Status	GetDataReader1 called..
+2021-01-22 12:25:12.767	Status	GetDataReader1 called..
+2021-01-22 12:25:12.892	Status	GetDataReader1 called..
+2021-01-22 12:25:13.013	Status	GetDataReader1 called..
+2021-01-22 12:25:13.128	Status	GetDataReader1 called..
+2021-01-22 12:25:13.249	Status	GetDataReader1 called..
+2021-01-22 12:25:13.358	Status	GetDataReader1 called..
+2021-01-22 12:25:13.481	Status	GetDataReader1 called..
+2021-01-22 12:25:13.596	Status	GetDataReader1 called..
+2021-01-22 12:25:13.704	Status	GetDataReader1 called..
+2021-01-22 12:25:13.812	Status	GetDataReader1 called..
+2021-01-22 12:25:13.920	Status	GetDataReader1 called..
+2021-01-22 12:25:14.028	Status	GetDataReader1 called..
+2021-01-22 12:25:14.141	Status	GetDataReader1 called..
+2021-01-22 12:25:14.249	Status	GetDataReader1 called..
+2021-01-22 12:25:14.374	Status	GetDataReader1 called..
+2021-01-22 12:25:14.483	Status	GetDataReader1 called..
+2021-01-22 12:25:14.538	Status	Timer Triggered Image Upload
+2021-01-22 12:25:14.552	Error	Error in GetImageAnd_PostToWebservice()Could not find a part of the path 'D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\bin\Debug\cctvimages'.
+2021-01-22 12:25:14.595	Status	GetDataReader1 called..
+2021-01-22 12:25:14.703	Status	GetDataReader1 called..
+2021-01-22 12:25:14.810	Status	GetDataReader1 called..
+2021-01-22 12:25:14.924	Status	GetDataReader1 called..
+2021-01-22 12:25:15.033	Status	GetDataReader1 called..
+2021-01-22 12:25:15.046	Status	RFID 1 Data received
+2021-01-22 12:25:15.069	Status	RFID 1 Data received temp :09 06 EE 00 02 DD 05 29 8E B8 
+2021-01-22 12:25:15.103	Error	Exception occured in GetDataReader1()- Cross-thread operation not valid: Control 'listBox3' accessed from a thread other than the thread it was created on.
+2021-01-22 12:25:15.132	Error	Exception occured in GetDataReader1()- System.InvalidOperationException: Cross-thread operation not valid: Control 'listBox3' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.ListBox.NativeAdd(Object item)
+   at System.Windows.Forms.ListBox.ObjectCollection.AddInternal(Object item)
+   at System.Windows.Forms.ListBox.ObjectCollection.Add(Object item)
+   at WeighBridgeApplication.Form1.GetDataReader1() in D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\Form1.cs:line 493
+2021-01-22 12:25:15.248	Status	GetDataReader1 called..
+2021-01-22 12:25:15.373	Status	GetDataReader1 called..
+2021-01-22 12:25:15.482	Status	GetDataReader1 called..
+2021-01-22 12:25:15.595	Status	GetDataReader1 called..
+2021-01-22 12:25:15.702	Status	GetDataReader1 called..
+2021-01-22 12:25:15.816	Status	GetDataReader1 called..
+2021-01-22 12:25:15.923	Status	GetDataReader1 called..
+2021-01-22 12:25:16.031	Status	GetDataReader1 called..
+2021-01-22 12:25:16.040	Status	RFID 1 Data received
+2021-01-22 12:25:16.052	Status	RFID 1 Data received temp :09 06 EE 00 02 DD 05 29 8E B8 
+2021-01-22 12:25:16.168	Status	GetDataReader1 called..
+2021-01-22 12:25:16.285	Status	GetDataReader1 called..
+2021-01-22 12:25:16.393	Status	GetDataReader1 called..
+2021-01-22 12:25:16.501	Status	GetDataReader1 called..
+2021-01-22 12:25:16.625	Status	GetDataReader1 called..
+2021-01-22 12:25:16.734	Status	GetDataReader1 called..
+2021-01-22 12:25:16.856	Status	GetDataReader1 called..
+2021-01-22 12:25:16.970	Status	GetDataReader1 called..
+2021-01-22 12:25:17.078	Status	GetDataReader1 called..
+2021-01-22 12:25:17.085	Status	RFID 1 Data received
+2021-01-22 12:25:17.098	Status	RFID 1 Data received temp :09 06 EE 00 02 DD 05 29 8E B8 
+2021-01-22 12:25:17.217	Status	GetDataReader1 called..
+2021-01-22 12:25:17.331	Status	GetDataReader1 called..
+2021-01-22 12:25:17.452	Status	GetDataReader1 called..
+2021-01-22 12:25:17.576	Status	GetDataReader1 called..
+2021-01-22 12:25:17.690	Status	GetDataReader1 called..
+2021-01-22 12:25:17.798	Status	GetDataReader1 called..
+2021-01-22 12:25:17.923	Status	GetDataReader1 called..
+2021-01-22 12:25:18.032	Status	GetDataReader1 called..
+2021-01-22 12:25:18.038	Status	RFID 1 Data received
+2021-01-22 12:25:18.046	Status	RFID 1 Data received temp :09 06 EE 00 02 DD 05 29 8E B8 
+2021-01-22 12:25:18.153	Status	GetDataReader1 called..
+2021-01-22 12:25:18.267	Status	GetDataReader1 called..
+2021-01-22 12:25:18.375	Status	GetDataReader1 called..
+2021-01-22 12:25:18.497	Status	GetDataReader1 called..
+2021-01-22 12:25:18.613	Status	GetDataReader1 called..
+2021-01-22 12:25:18.721	Status	GetDataReader1 called..
+2021-01-22 12:25:18.842	Status	GetDataReader1 called..
+2021-01-22 12:25:18.965	Status	GetDataReader1 called..
+2021-01-22 12:25:19.080	Status	GetDataReader1 called..
+2021-01-22 12:25:19.084	Status	RFID 1 Data received
+2021-01-22 12:25:19.093	Status	RFID 1 Data received temp :09 06 EE 00 02 DD 05 29 8E B8 
+2021-01-22 12:25:19.211	Status	GetDataReader1 called..
+2021-01-22 12:25:19.326	Status	GetDataReader1 called..
+2021-01-22 12:25:19.441	Status	GetDataReader1 called..
+2021-01-22 12:25:19.548	Status	GetDataReader1 called..
+2021-01-22 12:25:19.657	Status	GetDataReader1 called..
+2021-01-22 12:25:19.780	Status	GetDataReader1 called..
+2021-01-22 12:25:19.888	Status	GetDataReader1 called..
+2021-01-22 12:25:20.003	Status	GetDataReader1 called..
+2021-01-22 12:25:20.122	Status	GetDataReader1 called..
+2021-01-22 12:25:20.127	Status	RFID 1 Data received
+2021-01-22 12:25:20.135	Status	RFID 1 Data received temp :09 06 EE 00 02 DD 05 29 8E B8 
+2021-01-22 12:25:20.250	Status	GetDataReader1 called..
+2021-01-22 12:25:20.377	Status	GetDataReader1 called..
+2021-01-22 12:25:20.496	Status	GetDataReader1 called..
+2021-01-22 12:25:20.611	Status	GetDataReader1 called..
+2021-01-22 12:25:20.719	Status	GetDataReader1 called..
+2021-01-22 12:25:20.841	Status	GetDataReader1 called..
+2021-01-22 12:25:20.955	Status	GetDataReader1 called..
+2021-01-22 12:25:21.063	Status	GetDataReader1 called..
+2021-01-22 12:25:21.067	Status	RFID 1 Data received
+2021-01-22 12:25:21.078	Status	RFID 1 Data received temp :09 06 EE 00 02 DD 05 29 8E B8 
+2021-01-22 12:25:21.196	Status	GetDataReader1 called..
+2021-01-22 12:25:21.310	Status	GetDataReader1 called..
+2021-01-22 12:25:21.424	Status	GetDataReader1 called..
+2021-01-22 12:25:21.533	Status	GetDataReader1 called..
+2021-01-22 12:25:21.641	Status	GetDataReader1 called..
+2021-01-22 12:25:21.748	Status	GetDataReader1 called..
+2021-01-22 12:25:21.874	Status	GetDataReader1 called..
+2021-01-22 12:25:22.000	Status	GetDataReader1 called..
+2021-01-22 12:25:22.108	Status	GetDataReader1 called..
+2021-01-22 12:25:22.113	Status	RFID 1 Data received
+2021-01-22 12:25:22.121	Status	RFID 1 Data received temp :09 06 EE 00 02 DD 05 29 8E B8 
+2021-01-22 12:25:22.239	Status	GetDataReader1 called..
+2021-01-22 12:25:22.346	Status	GetDataReader1 called..
+2021-01-22 12:25:22.454	Status	GetDataReader1 called..
+2021-01-22 12:25:22.562	Status	GetDataReader1 called..
+2021-01-22 12:25:22.669	Status	GetDataReader1 called..
+2021-01-22 12:25:22.786	Status	GetDataReader1 called..
+2021-01-22 12:25:22.893	Status	GetDataReader1 called..
+2021-01-22 12:25:23.001	Status	GetDataReader1 called..
+2021-01-22 12:25:23.122	Status	GetDataReader1 called..
+2021-01-22 12:25:23.131	Status	RFID 1 Data received
+2021-01-22 12:25:23.145	Status	RFID 1 Data received temp :09 06 EE 00 02 DD 05 29 8E B8 
+2021-01-22 12:25:23.254	Status	GetDataReader1 called..
+2021-01-22 12:25:23.362	Status	GetDataReader1 called..
+2021-01-22 12:25:23.470	Status	GetDataReader1 called..
+2021-01-22 12:25:23.591	Status	GetDataReader1 called..
+2021-01-22 12:25:23.705	Status	GetDataReader1 called..
+2021-01-22 12:25:23.826	Status	GetDataReader1 called..
+2021-01-22 12:25:23.940	Status	GetDataReader1 called..
+2021-01-22 12:25:24.047	Status	GetDataReader1 called..
+2021-01-22 12:25:24.052	Status	RFID 1 Data received
+2021-01-22 12:25:24.061	Status	RFID 1 Data received temp :09 06 EE 00 02 DD 05 29 8E B8 
+2021-01-22 12:25:24.179	Status	GetDataReader1 called..
+2021-01-22 12:25:24.294	Status	GetDataReader1 called..
+2021-01-22 12:25:24.410	Status	GetDataReader1 called..
+2021-01-22 12:25:24.518	Status	GetDataReader1 called..
+2021-01-22 12:25:24.568	Status	Timer Triggered Image Upload
+2021-01-22 12:25:24.584	Error	Error in GetImageAnd_PostToWebservice()Could not find a part of the path 'D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\bin\Debug\cctvimages'.
+2021-01-22 12:25:24.623	Status	GetDataReader1 called..
+2021-01-22 12:25:24.731	Status	GetDataReader1 called..
+2021-01-22 12:25:24.843	Status	GetDataReader1 called..
+2021-01-22 12:25:24.967	Status	GetDataReader1 called..
+2021-01-22 12:25:25.081	Status	GetDataReader1 called..
+2021-01-22 12:25:25.086	Status	RFID 1 Data received
+2021-01-22 12:25:25.094	Status	RFID 1 Data received temp :09 06 EE 00 02 DD 05 29 8E B8 
+2021-01-22 12:25:25.211	Status	GetDataReader1 called..
+2021-01-22 12:25:25.327	Status	GetDataReader1 called..
+2021-01-22 12:25:25.434	Status	GetDataReader1 called..
+2021-01-22 12:25:25.549	Status	GetDataReader1 called..
+2021-01-22 12:25:25.658	Status	GetDataReader1 called..
+2021-01-22 12:25:25.780	Status	GetDataReader1 called..
+2021-01-22 12:25:25.905	Status	GetDataReader1 called..
+2021-01-22 12:25:26.018	Status	GetDataReader1 called..
+2021-01-22 12:25:26.023	Status	RFID 1 Data received
+2021-01-22 12:25:26.033	Status	RFID 1 Data received temp :09 06 EE 00 02 DD 05 29 8E B8 
+2021-01-22 12:25:26.139	Status	GetDataReader1 called..
+2021-01-22 12:25:26.253	Status	GetDataReader1 called..
+2021-01-22 12:25:26.362	Status	GetDataReader1 called..
+2021-01-22 12:25:26.470	Status	GetDataReader1 called..
+2021-01-22 12:25:26.578	Status	GetDataReader1 called..
+2021-01-22 12:25:26.686	Status	GetDataReader1 called..
+2021-01-22 12:25:26.794	Status	GetDataReader1 called..
+2021-01-22 12:25:26.903	Status	GetDataReader1 called..
+2021-01-22 12:25:27.017	Status	GetDataReader1 called..
+2021-01-22 12:25:27.022	Status	RFID 1 Data received
+2021-01-22 12:25:27.030	Status	RFID 1 Data received temp :09 06 EE 00 02 DD 05 29 
+2021-01-22 12:25:27.146	Status	GetDataReader1 called..
+2021-01-22 12:25:27.151	Status	RFID 1 Data received
+2021-01-22 12:25:27.159	Status	RFID 1 Data received temp :8E B8 
+2021-01-22 12:25:27.178	Error	Exception occured in GetDataReader1()- startIndex cannot be larger than length of string.
+Parameter name: startIndex
+2021-01-22 12:25:27.187	Error	Exception occured in GetDataReader1()- System.ArgumentOutOfRangeException: startIndex cannot be larger than length of string.
+Parameter name: startIndex
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at WeighBridgeApplication.Form1.GetDataReader1() in D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\Form1.cs:line 477
+2021-01-22 12:25:27.308	Status	GetDataReader1 called..
+2021-01-22 12:25:27.418	Status	GetDataReader1 called..
+2021-01-22 12:25:27.535	Status	GetDataReader1 called..
+2021-01-22 12:25:27.643	Status	GetDataReader1 called..
+2021-01-22 12:25:27.750	Status	GetDataReader1 called..
+2021-01-22 12:25:27.858	Status	GetDataReader1 called..
+2021-01-22 12:25:27.966	Status	GetDataReader1 called..
+2021-01-22 12:25:28.080	Status	GetDataReader1 called..
+2021-01-22 12:25:28.089	Status	RFID 1 Data received
+2021-01-22 12:25:28.104	Status	RFID 1 Data received temp :09 06 EE 00 02 DD 05 29 8E B8 
+2021-01-22 12:25:28.220	Status	GetDataReader1 called..
+2021-01-22 12:25:28.344	Status	GetDataReader1 called..
+2021-01-22 12:25:28.467	Status	GetDataReader1 called..
+2021-01-22 12:25:28.575	Status	GetDataReader1 called..
+2021-01-22 12:25:28.690	Status	GetDataReader1 called..
+2021-01-22 12:25:28.798	Status	GetDataReader1 called..
+2021-01-22 12:25:28.906	Status	GetDataReader1 called..
+2021-01-22 12:25:29.029	Status	GetDataReader1 called..
+2021-01-22 12:25:29.038	Status	RFID 1 Data received
+2021-01-22 12:25:29.051	Status	RFID 1 Data received temp :09 06 EE 00 02 DD 05 29 8E B8 
+2021-01-22 12:25:29.159	Status	GetDataReader1 called..
+2021-01-22 12:25:29.267	Status	GetDataReader1 called..
+2021-01-22 12:25:29.375	Status	GetDataReader1 called..
+2021-01-22 12:25:29.484	Status	GetDataReader1 called..
+2021-01-22 12:25:29.592	Status	GetDataReader1 called..
+2021-01-22 12:25:29.700	Status	GetDataReader1 called..
+2021-01-22 12:25:29.815	Status	GetDataReader1 called..
+2021-01-22 12:25:29.922	Status	GetDataReader1 called..
+2021-01-22 12:25:30.031	Status	GetDataReader1 called..
+2021-01-22 12:25:30.036	Status	RFID 1 Data received
+2021-01-22 12:25:30.047	Status	RFID 1 Data received temp :09 06 EE 00 02 DD 05 29 8E B8 
+2021-01-22 12:25:30.167	Status	GetDataReader1 called..
+2021-01-22 12:25:30.281	Status	GetDataReader1 called..
+2021-01-22 12:25:31.841	Status	GetDataReader1 called..
+2021-01-22 12:25:34.804	Status	Timer Triggered Image Upload
+2021-01-22 12:25:35.384	Status	RFID 1 Data received
+2021-01-22 12:25:35.393	Error	Error in GetImageAnd_PostToWebservice()Could not find a part of the path 'D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\bin\Debug\cctvimages'.
+2021-01-22 12:25:45.568	Status	Timer Triggered Image Upload
+2021-01-22 12:25:45.994	Error	Error in GetImageAnd_PostToWebservice()Could not find a part of the path 'D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\bin\Debug\cctvimages'.
+2021-01-22 12:26:01.106	Status	Timer Triggered Image Upload
+2021-01-22 12:26:02.534	Error	Error in GetImageAnd_PostToWebservice()Could not find a part of the path 'D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\bin\Debug\cctvimages'.
+2021-01-22 12:33:17.210	Status	RFID Reader Connected successfully
+2021-01-22 12:33:17.234	Status	In StartTimerFor_Uploading_Images()
+2021-01-22 12:33:18.131	Status	Uploading images Timer : 10 Seconds
+2021-01-22 12:33:18.139	Status	In setLatestSlipNo
+2021-01-22 12:33:18.144	Status	In OpenConnection
+2021-01-22 12:33:18.221	Status	DbConnection open successfully
+2021-01-22 12:33:18.237	Status	setLatestSlipNo successfully
+2021-01-22 12:33:18.244	Status	In OpenConnection
+2021-01-22 12:33:18.251	Status	DbConnection open successfully
+2021-01-22 12:33:18.262	Status	In OpenConnection
+2021-01-22 12:33:18.266	Status	DbConnection open successfully
+2021-01-22 12:33:18.284	Status	In loadPendingJobs
+2021-01-22 12:33:18.289	Status	In OpenConnection
+2021-01-22 12:33:18.294	Status	DbConnection open successfully
+2021-01-22 12:33:18.304	Status	Pending Jobs loaded successfully
+2021-01-22 12:33:18.309	Status	Connection closed successfully
+2021-01-22 12:33:18.314	Status	In loadCompletedJobs
+2021-01-22 12:33:18.320	Status	In OpenConnection
+2021-01-22 12:33:18.325	Status	DbConnection open successfully
+2021-01-22 12:33:18.412	Status	Completed Jobs loaded successfully
+2021-01-22 12:33:18.417	Status	Connection closed successfully
+2021-01-22 12:33:26.379	Status	In StartTimerFor_RFIDReader()
+2021-01-22 12:33:27.297	Status	GetDataReader1 called..
+2021-01-22 12:33:28.265	Status	GetDataReader1 called..
+2021-01-22 12:33:28.303	Error	Error in GetImageAnd_PostToWebservice()Could not find a part of the path 'D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\bin\Debug\cctvimages'.
+2021-01-22 12:33:28.946	Status	GetDataReader1 called..
+2021-01-22 12:33:32.104	Status	GetDataReader1 called..
+2021-01-22 12:33:32.220	Status	GetDataReader1 called..
+2021-01-22 12:33:32.328	Status	GetDataReader1 called..
+2021-01-22 12:33:32.436	Status	GetDataReader1 called..
+2021-01-22 12:33:32.546	Status	GetDataReader1 called..
+2021-01-22 12:33:32.655	Status	GetDataReader1 called..
+2021-01-22 12:33:32.768	Status	GetDataReader1 called..
+2021-01-22 12:33:32.888	Status	GetDataReader1 called..
+2021-01-22 12:33:33.002	Status	GetDataReader1 called..
+2021-01-22 12:33:33.111	Status	GetDataReader1 called..
+2021-01-22 12:33:33.219	Status	GetDataReader1 called..
+2021-01-22 12:33:33.326	Status	GetDataReader1 called..
+2021-01-22 12:33:33.435	Status	GetDataReader1 called..
+2021-01-22 12:33:33.550	Status	GetDataReader1 called..
+2021-01-22 12:33:33.657	Status	GetDataReader1 called..
+2021-01-22 12:33:33.780	Status	GetDataReader1 called..
+2021-01-22 12:33:33.888	Status	GetDataReader1 called..
+2021-01-22 12:33:34.002	Status	GetDataReader1 called..
+2021-01-22 12:33:34.111	Status	GetDataReader1 called..
+2021-01-22 12:33:34.236	Status	GetDataReader1 called..
+2021-01-22 12:33:34.344	Status	GetDataReader1 called..
+2021-01-22 12:33:34.468	Status	GetDataReader1 called..
+2021-01-22 12:33:34.597	Status	GetDataReader1 called..
+2021-01-22 12:33:34.704	Status	GetDataReader1 called..
+2021-01-22 12:33:34.812	Status	GetDataReader1 called..
+2021-01-22 12:33:34.934	Status	GetDataReader1 called..
+2021-01-22 12:33:35.049	Status	GetDataReader1 called..
+2021-01-22 12:33:35.157	Status	GetDataReader1 called..
+2021-01-22 12:33:35.279	Status	GetDataReader1 called..
+2021-01-22 12:33:35.393	Status	GetDataReader1 called..
+2021-01-22 12:33:35.512	Status	GetDataReader1 called..
+2021-01-22 12:33:35.627	Status	GetDataReader1 called..
+2021-01-22 12:33:35.735	Status	GetDataReader1 called..
+2021-01-22 12:33:35.842	Status	GetDataReader1 called..
+2021-01-22 12:33:35.956	Status	GetDataReader1 called..
+2021-01-22 12:33:36.064	Status	GetDataReader1 called..
+2021-01-22 12:33:36.184	Status	GetDataReader1 called..
+2021-01-22 12:33:36.191	Status	RFID 1 Data received
+2021-01-22 12:33:49.780	Status	Timer Triggered Image Upload
+2021-01-22 12:33:49.818	Error	Error in GetImageAnd_PostToWebservice()Could not find a part of the path 'D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\bin\Debug\cctvimages'.
+2021-01-22 12:34:24.266	Status	Timer Triggered Image Upload
+2021-01-22 12:34:24.281	Error	Exception occured in GetDataReader1()- Cross-thread operation not valid: Control 'listBox3' accessed from a thread other than the thread it was created on.
+2021-01-22 12:34:24.292	Error	Error in GetImageAnd_PostToWebservice()Could not find a part of the path 'D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\bin\Debug\cctvimages'.
+2021-01-22 12:34:24.418	Status	GetDataReader1 called..
+2021-01-22 12:34:24.534	Status	GetDataReader1 called..
+2021-01-22 12:34:24.643	Status	GetDataReader1 called..
+2021-01-22 12:34:24.751	Status	GetDataReader1 called..
+2021-01-22 12:34:24.872	Status	GetDataReader1 called..
+2021-01-22 12:34:24.981	Status	GetDataReader1 called..
+2021-01-22 12:34:25.096	Status	GetDataReader1 called..
+2021-01-22 12:34:25.203	Status	GetDataReader1 called..
+2021-01-22 12:34:25.325	Status	GetDataReader1 called..
+2021-01-22 12:34:25.440	Status	GetDataReader1 called..
+2021-01-22 12:34:25.548	Status	GetDataReader1 called..
+2021-01-22 12:34:25.657	Status	GetDataReader1 called..
+2021-01-22 12:34:25.765	Status	GetDataReader1 called..
+2021-01-22 12:34:25.873	Status	GetDataReader1 called..
+2021-01-22 12:34:25.982	Status	GetDataReader1 called..
+2021-01-22 12:34:26.097	Status	GetDataReader1 called..
+2021-01-22 12:34:26.204	Status	GetDataReader1 called..
+2021-01-22 12:34:26.311	Status	GetDataReader1 called..
+2021-01-22 12:34:26.434	Status	GetDataReader1 called..
+2021-01-22 12:34:26.549	Status	GetDataReader1 called..
+2021-01-22 12:34:26.657	Status	GetDataReader1 called..
+2021-01-22 12:34:26.764	Status	GetDataReader1 called..
+2021-01-22 12:34:26.872	Status	GetDataReader1 called..
+2021-01-22 12:34:27.000	Status	GetDataReader1 called..
+2021-01-22 12:34:27.107	Status	GetDataReader1 called..
+2021-01-22 12:34:27.221	Status	GetDataReader1 called..
+2021-01-22 12:34:27.341	Status	GetDataReader1 called..
+2021-01-22 12:34:27.456	Status	GetDataReader1 called..
+2021-01-22 12:34:27.564	Status	GetDataReader1 called..
+2021-01-22 12:34:27.672	Status	GetDataReader1 called..
+2021-01-22 12:34:27.780	Status	GetDataReader1 called..
+2021-01-22 12:34:27.894	Status	GetDataReader1 called..
+2021-01-22 12:34:28.013	Status	GetDataReader1 called..
+2021-01-22 12:34:28.128	Status	GetDataReader1 called..
+2021-01-22 12:34:28.237	Status	GetDataReader1 called..
+2021-01-22 12:34:28.345	Status	GetDataReader1 called..
+2021-01-22 12:34:28.453	Status	GetDataReader1 called..
+2021-01-22 12:34:28.561	Status	GetDataReader1 called..
+2021-01-22 12:34:28.684	Status	GetDataReader1 called..
+2021-01-22 12:34:28.799	Status	GetDataReader1 called..
+2021-01-22 12:34:28.920	Status	GetDataReader1 called..
+2021-01-22 12:34:29.029	Status	GetDataReader1 called..
+2021-01-22 12:34:29.141	Status	GetDataReader1 called..
+2021-01-22 12:34:29.249	Status	GetDataReader1 called..
+2021-01-22 12:34:29.358	Status	GetDataReader1 called..
+2021-01-22 12:34:29.466	Status	GetDataReader1 called..
+2021-01-22 12:34:29.580	Status	GetDataReader1 called..
+2021-01-22 12:34:29.703	Status	GetDataReader1 called..
+2021-01-22 12:34:29.810	Status	GetDataReader1 called..
+2021-01-22 12:34:29.924	Status	GetDataReader1 called..
+2021-01-22 12:34:30.050	Status	GetDataReader1 called..
+2021-01-22 12:34:35.984	Status	RFID Reader Connected successfully
+2021-01-22 12:34:36.012	Status	In StartTimerFor_Uploading_Images()
+2021-01-22 12:34:36.756	Status	Uploading images Timer : 10 Seconds
+2021-01-22 12:34:36.763	Status	In setLatestSlipNo
+2021-01-22 12:34:36.768	Status	In OpenConnection
+2021-01-22 12:34:36.838	Status	DbConnection open successfully
+2021-01-22 12:34:36.853	Status	setLatestSlipNo successfully
+2021-01-22 12:34:36.860	Status	In OpenConnection
+2021-01-22 12:34:36.865	Status	DbConnection open successfully
+2021-01-22 12:34:36.876	Status	In OpenConnection
+2021-01-22 12:34:36.881	Status	DbConnection open successfully
+2021-01-22 12:34:36.901	Status	In loadPendingJobs
+2021-01-22 12:34:36.906	Status	In OpenConnection
+2021-01-22 12:34:36.911	Status	DbConnection open successfully
+2021-01-22 12:34:36.919	Status	Pending Jobs loaded successfully
+2021-01-22 12:34:36.924	Status	Connection closed successfully
+2021-01-22 12:34:36.929	Status	In loadCompletedJobs
+2021-01-22 12:34:36.933	Status	In OpenConnection
+2021-01-22 12:34:36.938	Status	DbConnection open successfully
+2021-01-22 12:34:37.037	Status	Completed Jobs loaded successfully
+2021-01-22 12:34:37.042	Status	Connection closed successfully
+2021-01-22 12:34:46.772	Status	Timer Triggered Image Upload
+2021-01-22 12:34:46.799	Error	Error in GetImageAnd_PostToWebservice()Could not find a part of the path 'D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\bin\Debug\cctvimages'.
+2021-01-22 12:34:59.075	Status	In StartTimerFor_RFIDReader()
+2021-01-22 12:34:59.107	Error	Error in GetImageAnd_PostToWebservice()Could not find a part of the path 'D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\bin\Debug\cctvimages'.
+2021-01-22 12:34:59.190	Status	GetDataReader1 called..
+2021-01-22 12:34:59.195	Status	RFID 1 Data received
+2021-01-22 12:34:59.833	Status	RFID 1 Data received temp :09 06 EE 00 02 DD 05 29 8E B8 09 06 EE 00 02 DD 05 29 8E B8 09 06 EE 00 02 DD 05 29 8E B8 09 06 EE 00 02 DD 05 29 8E B8 09 06 EE 00 02 DD 05 29 8E B8 09 06 EE 00 02 DD 05 29 8E B8 09 06 EE 00 02 DD 05 29 8E B8 
+2021-01-22 12:34:59.851	Error	Exception occured in GetDataReader1()- Cross-thread operation not valid: Control 'listBox3' accessed from a thread other than the thread it was created on.
+2021-01-22 12:34:59.859	Error	Exception occured in GetDataReader1()- System.InvalidOperationException: Cross-thread operation not valid: Control 'listBox3' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.ListBox.NativeAdd(Object item)
+   at System.Windows.Forms.ListBox.ObjectCollection.AddInternal(Object item)
+   at System.Windows.Forms.ListBox.ObjectCollection.Add(Object item)
+   at WeighBridgeApplication.Form1.GetDataReader1() in D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\Form1.cs:line 493
+2021-01-22 12:34:59.970	Status	GetDataReader1 called..
+2021-01-22 12:35:00.077	Status	GetDataReader1 called..
+2021-01-22 12:35:00.184	Status	GetDataReader1 called..
+2021-01-22 12:35:00.298	Status	GetDataReader1 called..
+2021-01-22 12:35:00.407	Status	GetDataReader1 called..
+2021-01-22 12:35:00.514	Status	GetDataReader1 called..
+2021-01-22 12:35:00.628	Status	GetDataReader1 called..
+2021-01-22 12:35:00.736	Status	GetDataReader1 called..
+2021-01-22 12:35:00.844	Status	GetDataReader1 called..
+2021-01-22 12:35:00.972	Status	GetDataReader1 called..
+2021-01-22 12:35:01.079	Status	GetDataReader1 called..
+2021-01-22 12:35:01.187	Status	GetDataReader1 called..
+2021-01-22 12:35:01.299	Status	GetDataReader1 called..
+2021-01-22 12:35:01.408	Status	GetDataReader1 called..
+2021-01-22 12:35:01.516	Status	GetDataReader1 called..
+2021-01-22 12:35:01.624	Status	GetDataReader1 called..
+2021-01-22 12:35:01.732	Status	GetDataReader1 called..
+2021-01-22 12:35:01.846	Status	GetDataReader1 called..
+2021-01-22 12:35:01.965	Status	GetDataReader1 called..
+2021-01-22 12:35:02.078	Status	GetDataReader1 called..
+2021-01-22 12:35:02.201	Status	GetDataReader1 called..
+2021-01-22 12:35:02.327	Status	GetDataReader1 called..
+2021-01-22 12:35:02.450	Status	GetDataReader1 called..
+2021-01-22 12:35:02.565	Status	GetDataReader1 called..
+2021-01-22 12:35:02.672	Status	GetDataReader1 called..
+2021-01-22 12:35:02.779	Status	GetDataReader1 called..
+2021-01-22 12:35:02.893	Status	GetDataReader1 called..
+2021-01-22 12:35:03.012	Status	GetDataReader1 called..
+2021-01-22 12:35:03.126	Status	GetDataReader1 called..
+2021-01-22 12:35:03.251	Status	GetDataReader1 called..
+2021-01-22 12:35:03.359	Status	GetDataReader1 called..
+2021-01-22 12:35:03.467	Status	GetDataReader1 called..
+2021-01-22 12:35:03.581	Status	GetDataReader1 called..
+2021-01-22 12:35:03.687	Status	GetDataReader1 called..
+2021-01-22 12:35:03.795	Status	GetDataReader1 called..
+2021-01-22 12:35:03.903	Status	GetDataReader1 called..
+2021-01-22 12:35:04.018	Status	GetDataReader1 called..
+2021-01-22 12:35:04.126	Status	GetDataReader1 called..
+2021-01-22 12:35:04.234	Status	GetDataReader1 called..
+2021-01-22 12:35:04.358	Status	GetDataReader1 called..
+2021-01-22 12:35:04.363	Status	RFID 1 Data received
+2021-01-22 12:35:07.929	Status	RFID 1 Data received temp :09 06 EE 00 02 DD 05 29 8E B8 
+2021-01-22 12:35:09.183	Status	Timer Triggered Image Upload
+2021-01-22 12:35:10.114	Error	Error in GetImageAnd_PostToWebservice()Could not find a part of the path 'D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\bin\Debug\cctvimages'.
+2021-01-22 12:35:28.926	Status	Timer Triggered Image Upload
+2021-01-22 12:35:28.944	Status	RFID 1 Data received temp :09 06 EE 00 02 DD 05 29 8E B8 
+2021-01-22 12:35:57.435	Status	Timer Triggered Image Upload
+2021-01-22 12:35:57.482	Error	Error in GetImageAnd_PostToWebservice()Could not find a part of the path 'D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\bin\Debug\cctvimages'.
+2021-01-22 12:35:57.551	Status	GetDataReader1 called..
+2021-01-22 12:35:57.660	Status	GetDataReader1 called..
+2021-01-22 12:35:57.768	Status	GetDataReader1 called..
+2021-01-22 12:35:57.888	Status	GetDataReader1 called..
+2021-01-22 12:35:58.001	Status	GetDataReader1 called..
+2021-01-22 12:35:58.110	Status	GetDataReader1 called..
+2021-01-22 12:35:58.217	Status	GetDataReader1 called..
+2021-01-22 12:35:58.325	Status	GetDataReader1 called..
+2021-01-22 12:35:58.440	Status	GetDataReader1 called..
+2021-01-22 12:35:58.547	Status	GetDataReader1 called..
+2021-01-22 12:35:58.655	Status	GetDataReader1 called..
+2021-01-22 12:35:58.768	Status	GetDataReader1 called..
+2021-01-22 12:35:58.890	Status	GetDataReader1 called..
+2021-01-22 12:35:59.017	Status	GetDataReader1 called..
+2021-01-22 12:35:59.124	Status	GetDataReader1 called..
+2021-01-22 12:35:59.232	Status	GetDataReader1 called..
+2021-01-22 12:35:59.345	Status	GetDataReader1 called..
+2021-01-22 12:35:59.452	Status	GetDataReader1 called..
+2021-01-22 12:35:59.560	Status	GetDataReader1 called..
+2021-01-22 12:35:59.674	Status	GetDataReader1 called..
+2021-01-22 12:35:59.782	Status	GetDataReader1 called..
+2021-01-22 12:35:59.890	Status	GetDataReader1 called..
+2021-01-22 12:36:00.013	Status	GetDataReader1 called..
+2021-01-22 12:36:00.128	Status	GetDataReader1 called..
+2021-01-22 12:36:00.235	Status	GetDataReader1 called..
+2021-01-22 12:36:00.343	Status	GetDataReader1 called..
+2021-01-22 12:36:00.467	Status	GetDataReader1 called..
+2021-01-22 12:36:00.580	Status	GetDataReader1 called..
+2021-01-22 12:36:00.687	Status	GetDataReader1 called..
+2021-01-22 12:36:00.795	Status	GetDataReader1 called..
+2021-01-22 12:36:00.918	Status	GetDataReader1 called..
+2021-01-22 12:36:01.034	Status	GetDataReader1 called..
+2021-01-22 12:36:01.141	Status	GetDataReader1 called..
+2021-01-22 12:36:01.262	Status	GetDataReader1 called..
+2021-01-22 12:36:01.377	Status	GetDataReader1 called..
+2021-01-22 12:36:01.485	Status	GetDataReader1 called..
+2021-01-22 12:36:01.593	Status	GetDataReader1 called..
+2021-01-22 12:36:01.700	Status	GetDataReader1 called..
+2021-01-22 12:36:01.814	Status	GetDataReader1 called..
+2021-01-22 12:36:01.921	Status	GetDataReader1 called..
+2021-01-22 12:36:02.045	Status	GetDataReader1 called..
+2021-01-22 12:36:02.153	Status	GetDataReader1 called..
+2021-01-22 12:36:02.266	Status	GetDataReader1 called..
+2021-01-22 12:36:02.373	Status	GetDataReader1 called..
+2021-01-22 12:36:02.497	Status	GetDataReader1 called..
+2021-01-22 12:36:02.606	Status	GetDataReader1 called..
+2021-01-22 12:36:02.720	Status	GetDataReader1 called..
+2021-01-22 12:36:02.828	Status	GetDataReader1 called..
+2021-01-22 12:36:02.934	Status	GetDataReader1 called..
+2021-01-22 12:36:03.048	Status	GetDataReader1 called..
+2021-01-22 12:36:03.156	Status	GetDataReader1 called..
+2021-01-22 12:36:03.283	Status	GetDataReader1 called..
+2021-01-22 12:36:03.390	Status	GetDataReader1 called..
+2021-01-22 12:36:03.497	Status	GetDataReader1 called..
+2021-01-22 12:36:03.606	Status	GetDataReader1 called..
+2021-01-22 12:36:03.720	Status	GetDataReader1 called..
+2021-01-22 12:36:03.875	Status	GetDataReader1 called..
+2021-01-22 12:36:04.002	Status	GetDataReader1 called..
+2021-01-22 12:36:04.110	Status	GetDataReader1 called..
+2021-01-22 12:36:04.218	Status	GetDataReader1 called..
+2021-01-22 12:36:04.230	Status	RFID 1 Data received
+2021-01-22 12:36:11.141	Status	Timer Triggered Image Upload
+2021-01-22 12:36:12.036	Error	Error in GetImageAnd_PostToWebservice()Could not find a part of the path 'D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\bin\Debug\cctvimages'.
+2021-01-22 12:36:53.873	Status	RFID Reader Connected successfully
+2021-01-22 12:36:53.901	Status	In StartTimerFor_Uploading_Images()
+2021-01-22 12:36:54.797	Status	Uploading images Timer : 10 Seconds
+2021-01-22 12:36:54.804	Status	In setLatestSlipNo
+2021-01-22 12:36:54.809	Status	In OpenConnection
+2021-01-22 12:36:54.879	Status	DbConnection open successfully
+2021-01-22 12:36:54.893	Status	setLatestSlipNo successfully
+2021-01-22 12:36:54.899	Status	In OpenConnection
+2021-01-22 12:36:54.905	Status	DbConnection open successfully
+2021-01-22 12:36:54.915	Status	In OpenConnection
+2021-01-22 12:36:54.920	Status	DbConnection open successfully
+2021-01-22 12:36:54.943	Status	In loadPendingJobs
+2021-01-22 12:36:54.948	Status	In OpenConnection
+2021-01-22 12:36:54.954	Status	DbConnection open successfully
+2021-01-22 12:36:54.963	Status	Pending Jobs loaded successfully
+2021-01-22 12:36:54.968	Status	Connection closed successfully
+2021-01-22 12:36:54.974	Status	In loadCompletedJobs
+2021-01-22 12:36:54.979	Status	In OpenConnection
+2021-01-22 12:36:54.984	Status	DbConnection open successfully
+2021-01-22 12:36:55.080	Status	Completed Jobs loaded successfully
+2021-01-22 12:36:55.085	Status	Connection closed successfully
+2021-01-22 12:37:04.806	Status	Timer Triggered Image Upload
+2021-01-22 12:37:04.830	Error	Error in GetImageAnd_PostToWebservice()Could not find a part of the path 'D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\bin\Debug\cctvimages'.
+2021-01-22 12:37:11.411	Status	In StartTimerFor_RFIDReader()
+2021-01-22 12:37:11.536	Status	GetDataReader1 called..
+2021-01-22 12:37:11.541	Status	RFID 1 Data received
+2021-01-22 12:37:12.188	Status	RFID 1 Data received temp :09 06 EE 00 02 DD 05 29 8E B8 09 06 EE 00 02 DD 05 29 8E B8 
+2021-01-22 12:37:12.214	Error	Exception occured in GetDataReader1()- Cross-thread operation not valid: Control 'vehicleRFID_textbox' accessed from a thread other than the thread it was created on.
+2021-01-22 12:37:12.224	Error	Exception occured in GetDataReader1()- System.InvalidOperationException: Cross-thread operation not valid: Control 'vehicleRFID_textbox' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.set_WindowText(String value)
+   at System.Windows.Forms.TextBoxBase.set_WindowText(String value)
+   at System.Windows.Forms.Control.set_Text(String value)
+   at System.Windows.Forms.TextBoxBase.set_Text(String value)
+   at System.Windows.Forms.TextBox.set_Text(String value)
+   at WeighBridgeApplication.Form1.GetDataReader1() in D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\Form1.cs:line 503
+2021-01-22 12:37:12.332	Status	GetDataReader1 called..
+2021-01-22 12:37:12.440	Status	GetDataReader1 called..
+2021-01-22 12:37:12.560	Status	GetDataReader1 called..
+2021-01-22 12:37:12.675	Status	GetDataReader1 called..
+2021-01-22 12:37:12.794	Status	GetDataReader1 called..
+2021-01-22 12:37:12.903	Status	GetDataReader1 called..
+2021-01-22 12:37:13.017	Status	GetDataReader1 called..
+2021-01-22 12:37:13.125	Status	GetDataReader1 called..
+2021-01-22 12:37:13.249	Status	GetDataReader1 called..
+2021-01-22 12:37:13.357	Status	GetDataReader1 called..
+2021-01-22 12:37:13.472	Status	GetDataReader1 called..
+2021-01-22 12:37:13.580	Status	GetDataReader1 called..
+2021-01-22 12:37:13.688	Status	GetDataReader1 called..
+2021-01-22 12:37:13.811	Status	GetDataReader1 called..
+2021-01-22 12:37:13.934	Status	GetDataReader1 called..
+2021-01-22 12:37:14.047	Status	GetDataReader1 called..
+2021-01-22 12:37:14.170	Status	GetDataReader1 called..
+2021-01-22 12:37:14.285	Status	GetDataReader1 called..
+2021-01-22 12:37:14.403	Status	GetDataReader1 called..
+2021-01-22 12:37:14.518	Status	GetDataReader1 called..
+2021-01-22 12:37:14.625	Status	GetDataReader1 called..
+2021-01-22 12:37:14.734	Status	GetDataReader1 called..
+2021-01-22 12:37:14.841	Status	Timer Triggered Image Upload
+2021-01-22 12:37:14.863	Status	GetDataReader1 called..
+2021-01-22 12:37:14.988	Status	GetDataReader1 called..
+2021-01-22 12:37:15.107	Status	GetDataReader1 called..
+2021-01-22 12:37:15.222	Status	GetDataReader1 called..
+2021-01-22 12:37:15.341	Status	GetDataReader1 called..
+2021-01-22 12:37:15.355	Status	RFID 1 Data received
+2021-01-22 12:37:19.742	Status	RFID 1 Data received temp :09 06 EE 00 02 DD 05 29 8E B8 
+2021-01-22 12:37:25.567	Status	Timer Triggered Image Upload
+2021-01-22 12:38:00.839	Error	Error in GetImageAnd_PostToWebservice()Could not find a part of the path 'D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\bin\Debug\cctvimages'.
+2021-01-22 12:38:00.939	Status	GetDataReader1 called..
+2021-01-22 12:38:01.047	Status	GetDataReader1 called..
+2021-01-22 12:38:01.176	Status	GetDataReader1 called..
+2021-01-22 12:38:01.303	Status	GetDataReader1 called..
+2021-01-22 12:38:01.423	Status	GetDataReader1 called..
+2021-01-22 12:38:01.532	Status	GetDataReader1 called..
+2021-01-22 12:38:01.639	Status	GetDataReader1 called..
+2021-01-22 12:38:01.764	Status	GetDataReader1 called..
+2021-01-22 12:38:01.878	Status	GetDataReader1 called..
+2021-01-22 12:38:01.985	Status	GetDataReader1 called..
+2021-01-22 12:38:02.095	Status	GetDataReader1 called..
+2021-01-22 12:38:02.201	Status	GetDataReader1 called..
+2021-01-22 12:38:02.316	Status	GetDataReader1 called..
+2021-01-22 12:38:02.435	Status	GetDataReader1 called..
+2021-01-22 12:38:02.543	Status	GetDataReader1 called..
+2021-01-22 12:38:02.660	Status	GetDataReader1 called..
+2021-01-22 12:38:02.768	Status	GetDataReader1 called..
+2021-01-22 12:38:02.876	Status	GetDataReader1 called..
+2021-01-22 12:38:02.985	Status	GetDataReader1 called..
+2021-01-22 12:38:03.093	Status	GetDataReader1 called..
+2021-01-22 12:38:03.217	Status	GetDataReader1 called..
+2021-01-22 12:38:03.330	Status	GetDataReader1 called..
+2021-01-22 12:38:03.437	Status	GetDataReader1 called..
+2021-01-22 12:38:03.544	Status	GetDataReader1 called..
+2021-01-22 12:38:03.653	Status	GetDataReader1 called..
+2021-01-22 12:38:03.766	Status	GetDataReader1 called..
+2021-01-22 12:38:03.889	Status	GetDataReader1 called..
+2021-01-22 12:38:03.997	Status	GetDataReader1 called..
+2021-01-22 12:38:04.111	Status	GetDataReader1 called..
+2021-01-22 12:38:04.218	Status	GetDataReader1 called..
+2021-01-22 12:38:04.341	Status	GetDataReader1 called..
+2021-01-22 12:38:04.454	Status	GetDataReader1 called..
+2021-01-22 12:38:04.580	Status	GetDataReader1 called..
+2021-01-22 12:38:04.688	Status	GetDataReader1 called..
+2021-01-22 12:38:04.795	Status	GetDataReader1 called..
+2021-01-22 12:38:04.910	Status	GetDataReader1 called..
+2021-01-22 12:38:05.017	Status	GetDataReader1 called..
+2021-01-22 12:38:05.125	Status	GetDataReader1 called..
+2021-01-22 12:38:05.247	Status	GetDataReader1 called..
+2021-01-22 12:38:05.254	Status	RFID 1 Data received
+2021-01-22 12:38:08.009	Status	RFID 1 Data received temp :09 06 EE 00 02 DD 03 13 87 72 
+2021-01-22 12:38:13.329	Status	Timer Triggered Image Upload
+2021-01-22 12:38:14.771	Error	Error in GetImageAnd_PostToWebservice()Could not find a part of the path 'D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\bin\Debug\cctvimages'.
+2021-01-22 12:39:21.100	Status	Timer Triggered Image Upload
+2021-01-22 12:39:21.132	Error	Error in GetImageAnd_PostToWebservice()Could not find a part of the path 'D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\bin\Debug\cctvimages'.
+2021-01-22 12:39:21.141	Error	Exception occured in GetDataReader1()- System.InvalidOperationException: Cross-thread operation not valid: Control 'vehicleRFID_textbox' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.set_WindowText(String value)
+   at System.Windows.Forms.TextBoxBase.set_WindowText(String value)
+   at System.Windows.Forms.Control.set_Text(String value)
+   at System.Windows.Forms.TextBoxBase.set_Text(String value)
+   at System.Windows.Forms.TextBox.set_Text(String value)
+   at WeighBridgeApplication.Form1.GetDataReader1() in D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\Form1.cs:line 503
+2021-01-22 12:39:21.250	Status	GetDataReader1 called..
+2021-01-22 12:39:21.357	Status	GetDataReader1 called..
+2021-01-22 12:39:21.472	Status	GetDataReader1 called..
+2021-01-22 12:39:21.580	Status	GetDataReader1 called..
+2021-01-22 12:39:21.688	Status	GetDataReader1 called..
+2021-01-22 12:39:21.796	Status	GetDataReader1 called..
+2021-01-22 12:39:21.905	Status	GetDataReader1 called..
+2021-01-22 12:39:22.012	Status	GetDataReader1 called..
+2021-01-22 12:39:22.126	Status	GetDataReader1 called..
+2021-01-22 12:39:22.235	Status	GetDataReader1 called..
+2021-01-22 12:39:22.343	Status	GetDataReader1 called..
+2021-01-22 12:39:22.451	Status	GetDataReader1 called..
+2021-01-22 12:39:22.564	Status	GetDataReader1 called..
+2021-01-22 12:39:22.671	Status	GetDataReader1 called..
+2021-01-22 12:39:22.779	Status	GetDataReader1 called..
+2021-01-22 12:39:22.892	Status	GetDataReader1 called..
+2021-01-22 12:39:23.014	Status	GetDataReader1 called..
+2021-01-22 12:39:23.127	Status	GetDataReader1 called..
+2021-01-22 12:39:23.252	Status	GetDataReader1 called..
+2021-01-22 12:39:23.360	Status	GetDataReader1 called..
+2021-01-22 12:39:23.468	Status	GetDataReader1 called..
+2021-01-22 12:39:23.576	Status	GetDataReader1 called..
+2021-01-22 12:39:23.690	Status	GetDataReader1 called..
+2021-01-22 12:39:23.797	Status	GetDataReader1 called..
+2021-01-22 12:39:23.920	Status	GetDataReader1 called..
+2021-01-22 12:39:24.044	Status	GetDataReader1 called..
+2021-01-22 12:39:24.159	Status	GetDataReader1 called..
+2021-01-22 12:39:24.282	Status	GetDataReader1 called..
+2021-01-22 12:39:24.404	Status	GetDataReader1 called..
+2021-01-22 12:39:24.518	Status	GetDataReader1 called..
+2021-01-22 12:39:24.625	Status	GetDataReader1 called..
+2021-01-22 12:39:24.733	Status	GetDataReader1 called..
+2021-01-22 12:39:24.847	Status	GetDataReader1 called..
+2021-01-22 12:39:24.954	Status	GetDataReader1 called..
+2021-01-22 12:39:25.062	Status	GetDataReader1 called..
+2021-01-22 12:39:25.187	Status	GetDataReader1 called..
+2021-01-22 12:39:25.295	Status	GetDataReader1 called..
+2021-01-22 12:39:25.404	Status	GetDataReader1 called..
+2021-01-22 12:39:25.519	Status	GetDataReader1 called..
+2021-01-22 12:39:25.626	Status	GetDataReader1 called..
+2021-01-22 12:39:25.734	Status	GetDataReader1 called..
+2021-01-22 12:39:25.857	Status	GetDataReader1 called..
+2021-01-22 12:39:25.972	Status	GetDataReader1 called..
+2021-01-22 12:39:26.079	Status	GetDataReader1 called..
+2021-01-22 12:39:26.187	Status	GetDataReader1 called..
+2021-01-22 12:39:26.293	Status	GetDataReader1 called..
+2021-01-22 12:39:26.410	Status	GetDataReader1 called..
+2021-01-22 12:39:26.530	Status	GetDataReader1 called..
+2021-01-22 12:39:26.638	Status	GetDataReader1 called..
+2021-01-22 12:39:26.752	Status	GetDataReader1 called..
+2021-01-22 12:39:26.860	Status	GetDataReader1 called..
+2021-01-22 12:39:26.968	Status	GetDataReader1 called..
+2021-01-22 12:39:27.075	Status	GetDataReader1 called..
+2021-01-22 12:39:27.188	Status	GetDataReader1 called..
+2021-01-22 12:39:27.295	Status	GetDataReader1 called..
+2021-01-22 12:39:27.418	Status	GetDataReader1 called..
+2021-01-22 12:39:27.535	Status	GetDataReader1 called..
+2021-01-22 12:39:27.541	Status	RFID 1 Data received
+2021-01-22 12:39:31.891	Status	Timer Triggered Image Upload
+2021-01-22 12:39:31.919	Error	Error in GetImageAnd_PostToWebservice()Could not find a part of the path 'D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\bin\Debug\cctvimages'.
+2021-01-22 12:39:39.982	Status	GetDataReader1 called..
+2021-01-22 12:39:40.095	Status	GetDataReader1 called..
+2021-01-22 12:39:40.203	Status	GetDataReader1 called..
+2021-01-22 12:39:40.311	Status	GetDataReader1 called..
+2021-01-22 12:39:40.425	Status	GetDataReader1 called..
+2021-01-22 12:39:40.544	Status	GetDataReader1 called..
+2021-01-22 12:39:40.653	Status	GetDataReader1 called..
+2021-01-22 12:39:40.767	Status	GetDataReader1 called..
+2021-01-22 12:39:40.875	Status	GetDataReader1 called..
+2021-01-22 12:39:41.002	Status	GetDataReader1 called..
+2021-01-22 12:39:41.111	Status	GetDataReader1 called..
+2021-01-22 12:39:41.218	Status	GetDataReader1 called..
+2021-01-22 12:39:41.341	Status	GetDataReader1 called..
+2021-01-22 12:39:41.456	Status	GetDataReader1 called..
+2021-01-22 12:39:41.576	Status	GetDataReader1 called..
+2021-01-22 12:39:41.690	Status	GetDataReader1 called..
+2021-01-22 12:39:41.797	Status	GetDataReader1 called..
+2021-01-22 12:39:41.906	Status	GetDataReader1 called..
+2021-01-22 12:39:42.032	Status	GetDataReader1 called..
+2021-01-22 12:39:42.139	Status	GetDataReader1 called..
+2021-01-22 12:39:42.267	Status	GetDataReader1 called..
+2021-01-22 12:39:42.318	Status	Timer Triggered Image Upload
+2021-01-22 12:39:42.341	Error	Error in GetImageAnd_PostToWebservice()Could not find a part of the path 'D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\bin\Debug\cctvimages'.
+2021-01-22 12:39:42.380	Status	GetDataReader1 called..
+2021-01-22 12:39:42.487	Status	GetDataReader1 called..
+2021-01-22 12:39:42.612	Status	GetDataReader1 called..
+2021-01-22 12:39:42.736	Status	GetDataReader1 called..
+2021-01-22 12:39:42.843	Status	GetDataReader1 called..
+2021-01-22 12:39:42.951	Status	GetDataReader1 called..
+2021-01-22 12:39:43.066	Status	GetDataReader1 called..
+2021-01-22 12:39:43.185	Status	GetDataReader1 called..
+2021-01-22 12:39:43.200	Status	RFID 1 Data received
+2021-01-22 12:39:47.076	Status	RFID 1 Data received temp :09 06 EE 00 02 DD 05 29 8E B8 
+2021-01-22 12:39:52.623	Status	Timer Triggered Image Upload
+2021-01-22 12:39:54.569	Error	Error in GetImageAnd_PostToWebservice()Could not find a part of the path 'D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\bin\Debug\cctvimages'.
+2021-01-22 12:52:52.974	Status	Timer Triggered Image Upload
+2021-01-22 12:52:53.264	Error	Error in GetImageAnd_PostToWebservice()Could not find a part of the path 'D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\bin\Debug\cctvimages'.
+2021-01-22 12:53:14.584	Status	RFID Reader Connected successfully
+2021-01-22 12:53:15.802	Status	In StartTimerFor_RFIDReader()
+2021-01-22 12:53:15.846	Status	In StartTimerFor_Uploading_Images()
+2021-01-22 12:53:17.634	Status	Uploading images Timer : 10 Seconds
+2021-01-22 12:53:17.651	Status	In setLatestSlipNo
+2021-01-22 12:53:17.660	Status	In OpenConnection
+2021-01-22 12:53:18.513	Status	DbConnection open successfully
+2021-01-22 12:53:18.636	Status	setLatestSlipNo successfully
+2021-01-22 12:53:18.649	Status	In OpenConnection
+2021-01-22 12:53:18.656	Status	DbConnection open successfully
+2021-01-22 12:53:18.683	Status	In OpenConnection
+2021-01-22 12:53:18.689	Status	DbConnection open successfully
+2021-01-22 12:53:18.740	Status	In loadPendingJobs
+2021-01-22 12:53:18.746	Status	In OpenConnection
+2021-01-22 12:53:18.751	Status	DbConnection open successfully
+2021-01-22 12:53:18.769	Status	Pending Jobs loaded successfully
+2021-01-22 12:53:18.776	Status	Connection closed successfully
+2021-01-22 12:53:18.785	Status	In loadCompletedJobs
+2021-01-22 12:53:18.791	Status	In OpenConnection
+2021-01-22 12:53:18.796	Status	DbConnection open successfully
+2021-01-22 12:53:18.896	Status	Completed Jobs loaded successfully
+2021-01-22 12:53:18.901	Status	Connection closed successfully
+2021-01-22 12:53:27.641	Status	Timer Triggered Image Upload
+2021-01-22 12:53:27.693	Error	Error in GetImageAnd_PostToWebservice()Could not find a part of the path 'D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\bin\Debug\cctvimages'.
+2021-01-22 12:53:34.220	Status	GetDataReader1 called..
+2021-01-22 12:53:34.230	Status	RFID 1 Data received
+2021-01-22 12:53:36.239	Status	RFID 1 Data received temp :09 06 EE 00 02 DD 05 29 8E B8 09 06 EE 00 02 DD 05 29 8E B8 
+2021-01-22 12:53:36.281	Error	Exception occured in GetDataReader1()- Cross-thread operation not valid: Control 'vehicleRFID_textbox' accessed from a thread other than the thread it was created on.
+2021-01-22 12:53:36.321	Error	Exception occured in GetDataReader1()- System.InvalidOperationException: Cross-thread operation not valid: Control 'vehicleRFID_textbox' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.set_WindowText(String value)
+   at System.Windows.Forms.TextBoxBase.set_WindowText(String value)
+   at System.Windows.Forms.Control.set_Text(String value)
+   at System.Windows.Forms.TextBoxBase.set_Text(String value)
+   at System.Windows.Forms.TextBox.set_Text(String value)
+   at WeighBridgeApplication.Form1.GetDataReader1() in D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\Form1.cs:line 507
+2021-01-22 12:53:36.439	Status	GetDataReader1 called..
+2021-01-22 12:53:36.546	Status	GetDataReader1 called..
+2021-01-22 12:53:36.673	Status	GetDataReader1 called..
+2021-01-22 12:53:36.796	Status	GetDataReader1 called..
+2021-01-22 12:53:36.904	Status	GetDataReader1 called..
+2021-01-22 12:53:37.013	Status	GetDataReader1 called..
+2021-01-22 12:53:37.128	Status	GetDataReader1 called..
+2021-01-22 12:53:37.250	Status	GetDataReader1 called..
+2021-01-22 12:53:37.359	Status	GetDataReader1 called..
+2021-01-22 12:53:37.471	Status	GetDataReader1 called..
+2021-01-22 12:53:37.581	Status	GetDataReader1 called..
+2021-01-22 12:53:37.689	Status	GetDataReader1 called..
+2021-01-22 12:53:37.707	Status	Timer Triggered Image Upload
+2021-01-22 12:53:37.734	Error	Error in GetImageAnd_PostToWebservice()Could not find a part of the path 'D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\bin\Debug\cctvimages'.
+2021-01-22 12:53:37.811	Status	GetDataReader1 called..
+2021-01-22 12:53:37.925	Status	GetDataReader1 called..
+2021-01-22 12:53:38.034	Status	GetDataReader1 called..
+2021-01-22 12:53:38.140	Status	GetDataReader1 called..
+2021-01-22 12:53:38.248	Status	GetDataReader1 called..
+2021-01-22 12:53:38.356	Status	GetDataReader1 called..
+2021-01-22 12:53:38.471	Status	GetDataReader1 called..
+2021-01-22 12:53:38.579	Status	GetDataReader1 called..
+2021-01-22 12:53:38.687	Status	GetDataReader1 called..
+2021-01-22 12:53:38.795	Status	GetDataReader1 called..
+2021-01-22 12:53:38.904	Status	GetDataReader1 called..
+2021-01-22 12:53:39.012	Status	GetDataReader1 called..
+2021-01-22 12:53:39.127	Status	GetDataReader1 called..
+2021-01-22 12:53:39.236	Status	GetDataReader1 called..
+2021-01-22 12:53:39.344	Status	GetDataReader1 called..
+2021-01-22 12:53:39.452	Status	GetDataReader1 called..
+2021-01-22 12:53:39.560	Status	GetDataReader1 called..
+2021-01-22 12:53:39.675	Status	GetDataReader1 called..
+2021-01-22 12:53:39.784	Status	GetDataReader1 called..
+2021-01-22 12:53:39.891	Status	GetDataReader1 called..
+2021-01-22 12:53:39.998	Status	GetDataReader1 called..
+2021-01-22 12:53:40.107	Status	GetDataReader1 called..
+2021-01-22 12:53:40.215	Status	GetDataReader1 called..
+2021-01-22 12:53:40.330	Status	GetDataReader1 called..
+2021-01-22 12:53:40.438	Status	GetDataReader1 called..
+2021-01-22 12:53:40.547	Status	GetDataReader1 called..
+2021-01-22 12:53:40.655	Status	GetDataReader1 called..
+2021-01-22 12:53:40.763	Status	GetDataReader1 called..
+2021-01-22 12:53:40.878	Status	GetDataReader1 called..
+2021-01-22 12:53:40.987	Status	GetDataReader1 called..
+2021-01-22 12:53:41.095	Status	GetDataReader1 called..
+2021-01-22 12:53:41.203	Status	GetDataReader1 called..
+2021-01-22 12:53:41.311	Status	GetDataReader1 called..
+2021-01-22 12:53:41.419	Status	GetDataReader1 called..
+2021-01-22 12:53:41.528	Status	GetDataReader1 called..
+2021-01-22 12:53:41.533	Status	RFID 1 Data received
+2021-01-22 12:53:43.899	Status	RFID 1 Data received temp :09 06 EE 00 02 DD 05 29 8E B8 
+2021-01-22 12:53:50.290	Status	Timer Triggered Image Upload
+2021-01-22 12:53:51.806	Error	Error in GetImageAnd_PostToWebservice()Could not find a part of the path 'D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\bin\Debug\cctvimages'.
+2021-01-22 12:53:53.468	Status	GetDataReader1 called..
+2021-01-22 12:53:53.576	Status	GetDataReader1 called..
+2021-01-22 12:53:53.690	Status	GetDataReader1 called..
+2021-01-22 12:53:53.810	Status	GetDataReader1 called..
+2021-01-22 12:53:53.925	Status	GetDataReader1 called..
+2021-01-22 12:53:54.033	Status	GetDataReader1 called..
+2021-01-22 12:53:54.159	Status	GetDataReader1 called..
+2021-01-22 12:53:54.266	Status	GetDataReader1 called..
+2021-01-22 12:53:54.373	Status	GetDataReader1 called..
+2021-01-22 12:53:54.481	Status	GetDataReader1 called..
+2021-01-22 12:53:54.595	Status	GetDataReader1 called..
+2021-01-22 12:53:54.702	Status	GetDataReader1 called..
+2021-01-22 12:53:54.810	Status	GetDataReader1 called..
+2021-01-22 12:53:54.924	Status	GetDataReader1 called..
+2021-01-22 12:53:55.045	Status	GetDataReader1 called..
+2021-01-22 12:53:55.160	Status	GetDataReader1 called..
+2021-01-22 12:53:55.268	Status	GetDataReader1 called..
+2021-01-22 12:53:55.376	Status	GetDataReader1 called..
+2021-01-22 12:53:55.485	Status	GetDataReader1 called..
+2021-01-22 12:53:55.593	Status	GetDataReader1 called..
+2021-01-22 12:53:55.701	Status	GetDataReader1 called..
+2021-01-22 12:53:55.809	Status	GetDataReader1 called..
+2021-01-22 12:53:55.922	Status	GetDataReader1 called..
+2021-01-22 12:53:56.030	Status	GetDataReader1 called..
+2021-01-22 12:53:56.138	Status	GetDataReader1 called..
+2021-01-22 12:53:56.264	Status	GetDataReader1 called..
+2021-01-22 12:53:56.275	Status	RFID 1 Data received
+2021-01-22 12:53:58.412	Status	RFID 1 Data received temp :09 06 EE 00 02 DD 03 13 87 72 
+2021-01-22 12:54:03.850	Status	Timer Triggered Image Upload
+2021-01-22 12:54:05.760	Error	Error in GetImageAnd_PostToWebservice()Could not find a part of the path 'D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\bin\Debug\cctvimages'.
+2021-01-22 12:56:23.746	Status	In StartTimerFor_RFIDReader()
+2021-01-22 12:56:23.751	Status	RFID Reader Connected successfully
+2021-01-22 12:56:23.779	Status	In StartTimerFor_Uploading_Images()
+2021-01-22 12:56:23.785	Status	Uploading images Timer : 10 Seconds
+2021-01-22 12:56:25.042	Status	In setLatestSlipNo
+2021-01-22 12:56:25.047	Status	In OpenConnection
+2021-01-22 12:56:25.122	Status	DbConnection open successfully
+2021-01-22 12:56:25.141	Status	setLatestSlipNo successfully
+2021-01-22 12:56:25.147	Status	In OpenConnection
+2021-01-22 12:56:25.152	Status	DbConnection open successfully
+2021-01-22 12:56:25.166	Status	In OpenConnection
+2021-01-22 12:56:25.171	Status	DbConnection open successfully
+2021-01-22 12:56:25.192	Status	In loadPendingJobs
+2021-01-22 12:56:25.196	Status	In OpenConnection
+2021-01-22 12:56:25.201	Status	DbConnection open successfully
+2021-01-22 12:56:25.210	Status	Pending Jobs loaded successfully
+2021-01-22 12:56:25.215	Status	Connection closed successfully
+2021-01-22 12:56:25.220	Status	In loadCompletedJobs
+2021-01-22 12:56:25.225	Status	In OpenConnection
+2021-01-22 12:56:25.230	Status	DbConnection open successfully
+2021-01-22 12:56:25.319	Status	Completed Jobs loaded successfully
+2021-01-22 12:56:25.324	Status	Connection closed successfully
+2021-01-22 12:56:35.052	Status	Timer Triggered Image Upload
+2021-01-22 12:56:35.077	Error	Error in GetImageAnd_PostToWebservice()Could not find a part of the path 'D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\bin\Debug\cctvimages'.
+2021-01-22 12:56:41.653	Status	GetDataReader1 called..
+2021-01-22 12:56:41.659	Status	RFID 1 Data received
+2021-01-22 12:56:42.944	Status	RFID 1 Data received temp :09 06 EE 00 02 DD 05 29 8E B8 09 06 EE 00 02 DD 05 29 8E B8 09 06 EE 00 02 DD 05 29 8E B8 
+2021-01-22 12:56:42.964	Error	Exception occured in GetDataReader1()- Cross-thread operation not valid: Control 'vehicleRFID_textbox' accessed from a thread other than the thread it was created on.
+2021-01-22 12:56:42.974	Error	Exception occured in GetDataReader1()- System.InvalidOperationException: Cross-thread operation not valid: Control 'vehicleRFID_textbox' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.set_WindowText(String value)
+   at System.Windows.Forms.TextBoxBase.set_WindowText(String value)
+   at System.Windows.Forms.Control.set_Text(String value)
+   at System.Windows.Forms.TextBoxBase.set_Text(String value)
+   at System.Windows.Forms.TextBox.set_Text(String value)
+   at WeighBridgeApplication.Form1.GetDataReader1() in D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\Form1.cs:line 508
+2021-01-22 12:56:43.082	Status	GetDataReader1 called..
+2021-01-22 12:56:43.189	Status	GetDataReader1 called..
+2021-01-22 12:56:43.297	Status	GetDataReader1 called..
+2021-01-22 12:56:43.419	Status	GetDataReader1 called..
+2021-01-22 12:56:43.528	Status	GetDataReader1 called..
+2021-01-22 12:56:43.642	Status	GetDataReader1 called..
+2021-01-22 12:56:43.750	Status	GetDataReader1 called..
+2021-01-22 12:56:43.873	Status	GetDataReader1 called..
+2021-01-22 12:56:43.998	Status	GetDataReader1 called..
+2021-01-22 12:56:44.106	Status	GetDataReader1 called..
+2021-01-22 12:56:44.221	Status	GetDataReader1 called..
+2021-01-22 12:56:44.329	Status	GetDataReader1 called..
+2021-01-22 12:56:44.437	Status	GetDataReader1 called..
+2021-01-22 12:56:44.545	Status	GetDataReader1 called..
+2021-01-22 12:56:44.659	Status	GetDataReader1 called..
+2021-01-22 12:56:44.767	Status	GetDataReader1 called..
+2021-01-22 12:56:44.888	Status	GetDataReader1 called..
+2021-01-22 12:56:45.002	Status	GetDataReader1 called..
+2021-01-22 12:56:45.092	Status	Timer Triggered Image Upload
+2021-01-22 12:56:45.131	Status	GetDataReader1 called..
+2021-01-22 12:56:45.151	Status	RFID 1 Data received
+2021-01-22 12:56:47.784	Status	RFID 1 Data received temp :09 06 EE 00 02 DD 05 29 8E B8 
+2021-01-22 12:56:54.891	Status	GetDataReader1 called..
+2021-01-22 12:56:54.999	Status	GetDataReader1 called..
+2021-01-22 12:56:55.124	Status	GetDataReader1 called..
+2021-01-22 12:56:55.169	Status	Timer Triggered Image Upload
+2021-01-22 12:56:55.190	Error	Error in GetImageAnd_PostToWebservice()Could not find a part of the path 'D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\bin\Debug\cctvimages'.
+2021-01-22 12:56:55.251	Status	GetDataReader1 called..
+2021-01-22 12:56:55.360	Status	GetDataReader1 called..
+2021-01-22 12:56:55.467	Status	GetDataReader1 called..
+2021-01-22 12:56:55.577	Status	GetDataReader1 called..
+2021-01-22 12:56:55.689	Status	GetDataReader1 called..
+2021-01-22 12:56:55.796	Status	GetDataReader1 called..
+2021-01-22 12:56:55.905	Status	GetDataReader1 called..
+2021-01-22 12:56:56.013	Status	GetDataReader1 called..
+2021-01-22 12:56:56.128	Status	GetDataReader1 called..
+2021-01-22 12:56:56.249	Status	GetDataReader1 called..
+2021-01-22 12:56:56.358	Status	GetDataReader1 called..
+2021-01-22 12:56:56.466	Status	GetDataReader1 called..
+2021-01-22 12:56:56.580	Status	GetDataReader1 called..
+2021-01-22 12:56:56.688	Status	GetDataReader1 called..
+2021-01-22 12:56:56.796	Status	GetDataReader1 called..
+2021-01-22 12:56:56.905	Status	GetDataReader1 called..
+2021-01-22 12:56:57.014	Status	GetDataReader1 called..
+2021-01-22 12:56:57.127	Status	GetDataReader1 called..
+2021-01-22 12:56:57.236	Status	GetDataReader1 called..
+2021-01-22 12:56:57.344	Status	GetDataReader1 called..
+2021-01-22 12:56:57.452	Status	GetDataReader1 called..
+2021-01-22 12:56:57.560	Status	GetDataReader1 called..
+2021-01-22 12:56:57.673	Status	GetDataReader1 called..
+2021-01-22 12:56:57.795	Status	GetDataReader1 called..
+2021-01-22 12:56:57.904	Status	GetDataReader1 called..
+2021-01-22 12:56:58.019	Status	GetDataReader1 called..
+2021-01-22 12:56:58.142	Status	GetDataReader1 called..
+2021-01-22 12:56:58.250	Status	GetDataReader1 called..
+2021-01-22 12:56:58.358	Status	GetDataReader1 called..
+2021-01-22 12:56:58.472	Status	GetDataReader1 called..
+2021-01-22 12:56:58.580	Status	GetDataReader1 called..
+2021-01-22 12:56:58.687	Status	GetDataReader1 called..
+2021-01-22 12:56:58.795	Status	GetDataReader1 called..
+2021-01-22 12:56:58.904	Status	GetDataReader1 called..
+2021-01-22 12:56:59.018	Status	GetDataReader1 called..
+2021-01-22 12:56:59.126	Status	GetDataReader1 called..
+2021-01-22 12:56:59.248	Status	GetDataReader1 called..
+2021-01-22 12:56:59.252	Status	RFID 1 Data received
+2021-01-22 12:57:01.978	Status	RFID 1 Data received temp :09 06 EE 00 02 DD 03 13 87 72 
+2021-01-22 12:57:06.021	Status	Timer Triggered Image Upload
+2021-01-22 12:57:07.384	Error	Error in GetImageAnd_PostToWebservice()Could not find a part of the path 'D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\bin\Debug\cctvimages'.
+2021-01-22 12:59:42.155	Status	In StartTimerFor_RFIDReader()
+2021-01-22 12:59:42.162	Status	RFID Reader Connected successfully
+2021-01-22 12:59:42.190	Status	In StartTimerFor_Uploading_Images()
+2021-01-22 12:59:42.849	Status	Uploading images Timer : 10 Seconds
+2021-01-22 12:59:42.856	Status	In setLatestSlipNo
+2021-01-22 12:59:42.861	Status	In OpenConnection
+2021-01-22 12:59:42.929	Status	DbConnection open successfully
+2021-01-22 12:59:42.946	Status	setLatestSlipNo successfully
+2021-01-22 12:59:42.952	Status	In OpenConnection
+2021-01-22 12:59:42.958	Status	DbConnection open successfully
+2021-01-22 12:59:42.970	Status	In OpenConnection
+2021-01-22 12:59:42.976	Status	DbConnection open successfully
+2021-01-22 12:59:42.997	Status	In loadPendingJobs
+2021-01-22 12:59:43.002	Status	In OpenConnection
+2021-01-22 12:59:43.007	Status	DbConnection open successfully
+2021-01-22 12:59:43.016	Status	Pending Jobs loaded successfully
+2021-01-22 12:59:43.021	Status	Connection closed successfully
+2021-01-22 12:59:43.026	Status	In loadCompletedJobs
+2021-01-22 12:59:43.031	Status	In OpenConnection
+2021-01-22 12:59:43.035	Status	DbConnection open successfully
+2021-01-22 12:59:43.142	Status	Completed Jobs loaded successfully
+2021-01-22 12:59:43.147	Status	Connection closed successfully
+2021-01-22 12:59:52.865	Status	Timer Triggered Image Upload
+2021-01-22 12:59:52.900	Error	Error in GetImageAnd_PostToWebservice()Could not find a part of the path 'D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\bin\Debug\cctvimages'.
+2021-01-22 12:59:54.254	Status	GetDataReader1 called..
+2021-01-22 12:59:54.359	Status	GetDataReader1 called..
+2021-01-22 12:59:54.471	Status	GetDataReader1 called..
+2021-01-22 12:59:54.580	Status	GetDataReader1 called..
+2021-01-22 12:59:54.687	Status	GetDataReader1 called..
+2021-01-22 12:59:54.799	Status	GetDataReader1 called..
+2021-01-22 12:59:54.914	Status	GetDataReader1 called..
+2021-01-22 12:59:55.035	Status	GetDataReader1 called..
+2021-01-22 12:59:55.155	Status	GetDataReader1 called..
+2021-01-22 12:59:55.264	Status	GetDataReader1 called..
+2021-01-22 12:59:55.375	Status	GetDataReader1 called..
+2021-01-22 12:59:55.483	Status	GetDataReader1 called..
+2021-01-22 12:59:55.594	Status	GetDataReader1 called..
+2021-01-22 12:59:55.706	Status	GetDataReader1 called..
+2021-01-22 12:59:55.812	Status	GetDataReader1 called..
+2021-01-22 12:59:55.921	Status	GetDataReader1 called..
+2021-01-22 12:59:56.032	Status	GetDataReader1 called..
+2021-01-22 12:59:56.141	Status	GetDataReader1 called..
+2021-01-22 12:59:56.253	Status	GetDataReader1 called..
+2021-01-22 12:59:56.362	Status	GetDataReader1 called..
+2021-01-22 12:59:56.481	Status	GetDataReader1 called..
+2021-01-22 12:59:56.594	Status	GetDataReader1 called..
+2021-01-22 12:59:56.700	Status	GetDataReader1 called..
+2021-01-22 12:59:56.814	Status	GetDataReader1 called..
+2021-01-22 12:59:56.923	Status	GetDataReader1 called..
+2021-01-22 12:59:57.029	Status	GetDataReader1 called..
+2021-01-22 12:59:57.144	Status	GetDataReader1 called..
+2021-01-22 12:59:57.249	Status	GetDataReader1 called..
+2021-01-22 12:59:57.358	Status	GetDataReader1 called..
+2021-01-22 12:59:57.466	Status	GetDataReader1 called..
+2021-01-22 12:59:57.576	Status	GetDataReader1 called..
+2021-01-22 12:59:57.686	Status	GetDataReader1 called..
+2021-01-22 12:59:57.800	Status	GetDataReader1 called..
+2021-01-22 12:59:57.910	Status	GetDataReader1 called..
+2021-01-22 12:59:58.031	Status	GetDataReader1 called..
+2021-01-22 12:59:58.142	Status	GetDataReader1 called..
+2021-01-22 12:59:58.268	Status	GetDataReader1 called..
+2021-01-22 12:59:58.379	Status	GetDataReader1 called..
+2021-01-22 12:59:58.484	Status	GetDataReader1 called..
+2021-01-22 12:59:58.595	Status	GetDataReader1 called..
+2021-01-22 12:59:58.707	Status	GetDataReader1 called..
+2021-01-22 12:59:58.829	Status	GetDataReader1 called..
+2021-01-22 12:59:58.939	Status	GetDataReader1 called..
+2021-01-22 12:59:59.046	Status	GetDataReader1 called..
+2021-01-22 12:59:59.176	Status	GetDataReader1 called..
+2021-01-22 12:59:59.298	Status	GetDataReader1 called..
+2021-01-22 12:59:59.406	Status	GetDataReader1 called..
+2021-01-22 12:59:59.536	Status	GetDataReader1 called..
+2021-01-22 12:59:59.659	Status	GetDataReader1 called..
+2021-01-22 12:59:59.786	Status	GetDataReader1 called..
+2021-01-22 12:59:59.904	Status	GetDataReader1 called..

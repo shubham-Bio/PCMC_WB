@@ -1,0 +1,5 @@
+
+2021-11-10 12:58:56.742	Status	In Form1_Load 
+2021-11-10 12:58:58.880	Status	In OpenConnection
+2021-11-10 12:58:59.235	Status	DbConnection open successfully
+2021-11-10 12:58:59.652	Status	In StartTimerFor_WeighBridge()

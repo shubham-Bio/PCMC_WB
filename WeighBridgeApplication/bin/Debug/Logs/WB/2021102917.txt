@@ -1,0 +1,36 @@
+
+2021-10-29 17:48:25.649	Status	In Form1_Load 
+2021-10-29 17:48:25.762	Status	In OpenConnection
+2021-10-29 17:48:25.999	Status	DbConnection open successfully
+2021-10-29 17:48:26.156	Status	In StartTimerFor_WeighBridge()
+2021-10-29 17:48:49.963	Error	Can't connect to serveruPLibrary.Networking.M2Mqtt.Exceptions.MqttConnectionException: Exception connecting to the broker ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.1.101:1883
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at uPLibrary.Networking.M2Mqtt.MqttNetworkChannel.Connect()
+   at uPLibrary.Networking.M2Mqtt.MqttClient.Connect(String clientId, String username, String password, Boolean willRetain, Byte willQosLevel, Boolean willFlag, String willTopic, String willMessage, Boolean cleanSession, UInt16 keepAlivePeriod)
+   --- End of inner exception stack trace ---
+   at uPLibrary.Networking.M2Mqtt.MqttClient.Connect(String clientId, String username, String password, Boolean willRetain, Byte willQosLevel, Boolean willFlag, String willTopic, String willMessage, Boolean cleanSession, UInt16 keepAlivePeriod)
+   at uPLibrary.Networking.M2Mqtt.MqttClient.Connect(String clientId)
+   at WeighBridgeApplication.Form1.ConnectMQTTServer() in D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\Form1.cs:line 1197
+2021-10-29 17:48:49.968	Status	In StartTimerFor_Uploading_Images()
+2021-10-29 17:48:49.968	Status	Uploading images Timer : 10 Seconds
+2021-10-29 17:48:49.970	Status	In setLatestSlipNo
+2021-10-29 17:48:49.970	Status	In OpenConnection
+2021-10-29 17:48:49.989	Error	Error In OpenConnection :The connection is already open.
+2021-10-29 17:48:50.048	Status	setLatestSlipNo successfully
+2021-10-29 17:48:50.049	Status	In StartTimerFor_WeighBridge()
+2021-10-29 17:48:50.062	Status	In OpenConnection
+2021-10-29 17:48:50.062	Status	DbConnection open successfully
+2021-10-29 17:48:50.087	Status	In OpenConnection
+2021-10-29 17:48:50.087	Status	DbConnection open successfully
+2021-10-29 17:48:50.114	Status	In loadPendingJobs
+2021-10-29 17:48:50.114	Status	In OpenConnection
+2021-10-29 17:48:50.115	Status	DbConnection open successfully
+2021-10-29 17:48:50.127	Status	Pending Jobs loaded successfully
+2021-10-29 17:48:50.127	Status	Connection closed successfully
+2021-10-29 17:48:50.128	Status	In loadCompletedJobs
+2021-10-29 17:48:50.128	Status	In OpenConnection
+2021-10-29 17:48:50.129	Status	DbConnection open successfully
+2021-10-29 17:48:50.146	Status	Completed Jobs loaded successfully
+2021-10-29 17:48:50.147	Status	Connection closed successfully
+2021-10-29 17:48:50.148	Status	In Form1_Load complete 

@@ -1,0 +1,401 @@
+
+2021-09-17 19:20:18.359	Status	In Form1_Load 
+2021-09-17 19:20:18.490	Status	In OpenConnection
+2021-09-17 19:20:18.696	Status	DbConnection open successfully
+2021-09-17 19:20:18.909	Status	In StartTimerFor_WeighBridge()
+2021-09-17 19:20:20.027	Status	In StartTimerFor_Uploading_Images()
+2021-09-17 19:20:20.027	Status	Uploading images Timer : 10 Seconds
+2021-09-17 19:20:20.028	Status	In setLatestSlipNo
+2021-09-17 19:20:20.029	Status	In OpenConnection
+2021-09-17 19:20:20.092	Error	Error In OpenConnection :The connection is already open.
+2021-09-17 19:20:20.104	Status	setLatestSlipNo successfully
+2021-09-17 19:20:20.105	Status	In StartTimerFor_WeighBridge()
+2021-09-17 19:20:20.114	Status	In OpenConnection
+2021-09-17 19:20:20.115	Status	DbConnection open successfully
+2021-09-17 19:20:20.138	Status	In OpenConnection
+2021-09-17 19:20:20.139	Status	DbConnection open successfully
+2021-09-17 19:20:20.185	Status	In loadPendingJobs
+2021-09-17 19:20:20.185	Status	In OpenConnection
+2021-09-17 19:20:20.186	Status	DbConnection open successfully
+2021-09-17 19:20:20.199	Status	Pending Jobs loaded successfully
+2021-09-17 19:20:20.199	Status	Connection closed successfully
+2021-09-17 19:20:20.200	Status	In loadCompletedJobs
+2021-09-17 19:20:20.200	Status	In OpenConnection
+2021-09-17 19:20:20.200	Status	DbConnection open successfully
+2021-09-17 19:20:20.216	Status	Completed Jobs loaded successfully
+2021-09-17 19:20:20.216	Status	Connection closed successfully
+2021-09-17 19:20:20.218	Status	In Form1_Load complete 
+2021-09-17 19:20:20.310	Status	readPort() DateTime- 17-09-2021 19:20:20 result-987654
+2021-09-17 19:20:21.629	Status	readPort() DateTime- 17-09-2021 19:20:21 result-123456
+2021-09-17 19:20:22.726	Status	readPort() DateTime- 17-09-2021 19:20:22 result-345670
+2021-09-17 19:20:23.741	Status	readPort() DateTime- 17-09-2021 19:20:23 result-987654
+2021-09-17 19:20:25.120	Status	In loadPendingJobs
+2021-09-17 19:20:25.121	Status	In OpenConnection
+2021-09-17 19:20:25.122	Status	DbConnection open successfully
+2021-09-17 19:20:25.142	Status	Pending Jobs loaded successfully
+2021-09-17 19:20:25.143	Status	Connection closed successfully
+2021-09-17 19:20:25.143	Status	In loadCompletedJobs
+2021-09-17 19:20:25.144	Status	In OpenConnection
+2021-09-17 19:20:25.145	Status	DbConnection open successfully
+2021-09-17 19:20:25.174	Status	Completed Jobs loaded successfully
+2021-09-17 19:20:25.175	Status	Connection closed successfully
+2021-09-17 19:20:25.731	Status	readPort() DateTime- 17-09-2021 19:20:25 result-123456
+2021-09-17 19:20:26.769	Status	readPort() DateTime- 17-09-2021 19:20:26 result-34
+2021-09-17 19:20:26.874	Status	readPort() DateTime- 17-09-2021 19:20:26 result-5670
+2021-09-17 19:20:58.850	Status	In Form1_Load 
+2021-09-17 19:20:58.878	Status	In OpenConnection
+2021-09-17 19:20:58.952	Status	DbConnection open successfully
+2021-09-17 19:20:59.072	Status	In StartTimerFor_WeighBridge()
+2021-09-17 19:21:02.034	Status	In StartTimerFor_Uploading_Images()
+2021-09-17 19:21:02.035	Status	Uploading images Timer : 10 Seconds
+2021-09-17 19:21:02.038	Status	In setLatestSlipNo
+2021-09-17 19:21:02.038	Status	In OpenConnection
+2021-09-17 19:21:02.080	Error	Error In OpenConnection :The connection is already open.
+2021-09-17 19:21:02.111	Status	setLatestSlipNo successfully
+2021-09-17 19:21:02.112	Status	In StartTimerFor_WeighBridge()
+2021-09-17 19:21:02.116	Status	In OpenConnection
+2021-09-17 19:21:02.117	Status	DbConnection open successfully
+2021-09-17 19:21:02.137	Status	In OpenConnection
+2021-09-17 19:21:02.138	Status	DbConnection open successfully
+2021-09-17 19:21:02.182	Status	In loadPendingJobs
+2021-09-17 19:21:02.182	Status	In OpenConnection
+2021-09-17 19:21:02.182	Status	DbConnection open successfully
+2021-09-17 19:21:02.192	Status	Pending Jobs loaded successfully
+2021-09-17 19:21:02.192	Status	Connection closed successfully
+2021-09-17 19:21:02.193	Status	In loadCompletedJobs
+2021-09-17 19:21:02.193	Status	In OpenConnection
+2021-09-17 19:21:02.194	Status	DbConnection open successfully
+2021-09-17 19:21:02.207	Status	Completed Jobs loaded successfully
+2021-09-17 19:21:02.207	Status	Connection closed successfully
+2021-09-17 19:21:02.209	Status	In Form1_Load complete 
+2021-09-17 19:21:02.291	Status	readPort() DateTime- 17-09-2021 19:21:02 result-345670
+2021-09-17 19:21:02.740	Status	readPort() DateTime- 17-09-2021 19:21:02 result-123456
+2021-09-17 19:21:03.832	Status	readPort() DateTime- 17-09-2021 19:21:03 result-345670
+2021-09-17 19:21:04.812	Status	readPort() DateTime- 17-09-2021 19:21:04 result-987654
+2021-09-17 19:21:06.927	Status	readPort() DateTime- 17-09-2021 19:21:06 result-23456
+2021-09-17 19:21:07.113	Status	In loadPendingJobs
+2021-09-17 19:21:07.114	Status	In OpenConnection
+2021-09-17 19:21:07.115	Status	DbConnection open successfully
+2021-09-17 19:21:07.137	Status	Pending Jobs loaded successfully
+2021-09-17 19:21:07.138	Status	Connection closed successfully
+2021-09-17 19:21:07.139	Status	In loadCompletedJobs
+2021-09-17 19:21:07.139	Status	In OpenConnection
+2021-09-17 19:21:07.141	Status	DbConnection open successfully
+2021-09-17 19:21:07.171	Status	Completed Jobs loaded successfully
+2021-09-17 19:21:07.171	Status	Connection closed successfully
+2021-09-17 19:21:13.277	Status	In loadVehivle
+2021-09-17 19:21:13.278	Status	In OpenConnection
+2021-09-17 19:21:13.278	Status	DbConnection open successfully
+2021-09-17 19:21:13.281	Status	In OpenConnection
+2021-09-17 19:21:13.298	Error	Error In OpenConnection :The connection is already open.
+2021-09-17 19:21:13.308	Status	In OpenConnection
+2021-09-17 19:21:13.308	Status	DbConnection open successfully
+2021-09-17 19:21:13.348	Status	In loadVehivle Complete
+2021-09-17 19:21:13.348	Status	Connection closed successfully
+2021-09-17 19:21:13.361	Status	readPort() DateTime- 17-09-2021 19:21:13 result-345670
+2021-09-17 19:21:13.364	Status	Timer Triggered Image Upload
+2021-09-17 19:21:13.368	Status	####### Count of Images exist in folder ## : 12
+2021-09-17 19:21:13.382	Status	In UploadwebcamImageOnServer()
+2021-09-17 19:21:13.382	Status	In Uploading file name : BIO_1_160721_3_image1.jpg
+2021-09-17 19:21:13.449	Error	Error In UploadwebcamImageOnServer - System.InvalidOperationException: An invalid request URI was provided. The request URI must either be an absolute URI or BaseAddress must be set.
+   at System.Net.Http.HttpClient.PrepareRequestMessage(HttpRequestMessage request)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.PostAsync(String requestUri, HttpContent content)
+   at WeighBridgeApplication.Form1.<UploadwebImageOnServer>d__79.MoveNext() in D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\Form1.cs:line 2158
+2021-09-17 19:21:13.453	Status	In UploadwebcamImageOnServer()
+2021-09-17 19:21:13.453	Status	In Uploading file name : BIO_1_160721_3_image2.jpg
+2021-09-17 19:21:13.470	Error	Error In UploadwebcamImageOnServer - System.InvalidOperationException: An invalid request URI was provided. The request URI must either be an absolute URI or BaseAddress must be set.
+   at System.Net.Http.HttpClient.PrepareRequestMessage(HttpRequestMessage request)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.PostAsync(String requestUri, HttpContent content)
+   at WeighBridgeApplication.Form1.<UploadwebImageOnServer>d__79.MoveNext() in D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\Form1.cs:line 2158
+2021-09-17 19:21:13.470	Status	In UploadwebcamImageOnServer()
+2021-09-17 19:21:13.470	Status	In Uploading file name : BIO_1_160721_3_image4.jpg
+2021-09-17 19:21:13.489	Error	Error In UploadwebcamImageOnServer - System.InvalidOperationException: An invalid request URI was provided. The request URI must either be an absolute URI or BaseAddress must be set.
+   at System.Net.Http.HttpClient.PrepareRequestMessage(HttpRequestMessage request)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.PostAsync(String requestUri, HttpContent content)
+   at WeighBridgeApplication.Form1.<UploadwebImageOnServer>d__79.MoveNext() in D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\Form1.cs:line 2158
+2021-09-17 19:21:13.489	Status	In UploadwebcamImageOnServer()
+2021-09-17 19:21:13.489	Status	In Uploading file name : BIO_1_160721_3_image5.jpg
+2021-09-17 19:21:13.506	Error	Error In UploadwebcamImageOnServer - System.InvalidOperationException: An invalid request URI was provided. The request URI must either be an absolute URI or BaseAddress must be set.
+   at System.Net.Http.HttpClient.PrepareRequestMessage(HttpRequestMessage request)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.PostAsync(String requestUri, HttpContent content)
+   at WeighBridgeApplication.Form1.<UploadwebImageOnServer>d__79.MoveNext() in D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\Form1.cs:line 2158
+2021-09-17 19:21:13.506	Status	In UploadwebcamImageOnServer()
+2021-09-17 19:21:13.506	Status	In Uploading file name : BIO_1_260821_1_image1.jpg
+2021-09-17 19:21:13.533	Error	Error In UploadwebcamImageOnServer - System.InvalidOperationException: An invalid request URI was provided. The request URI must either be an absolute URI or BaseAddress must be set.
+   at System.Net.Http.HttpClient.PrepareRequestMessage(HttpRequestMessage request)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.PostAsync(String requestUri, HttpContent content)
+   at WeighBridgeApplication.Form1.<UploadwebImageOnServer>d__79.MoveNext() in D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\Form1.cs:line 2158
+2021-09-17 19:21:13.534	Status	In UploadwebcamImageOnServer()
+2021-09-17 19:21:13.534	Status	In Uploading file name : BIO_1_260821_1_image2.jpg
+2021-09-17 19:21:13.566	Error	Error In UploadwebcamImageOnServer - System.InvalidOperationException: An invalid request URI was provided. The request URI must either be an absolute URI or BaseAddress must be set.
+   at System.Net.Http.HttpClient.PrepareRequestMessage(HttpRequestMessage request)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.PostAsync(String requestUri, HttpContent content)
+   at WeighBridgeApplication.Form1.<UploadwebImageOnServer>d__79.MoveNext() in D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\Form1.cs:line 2158
+2021-09-17 19:21:13.566	Status	In UploadwebcamImageOnServer()
+2021-09-17 19:21:13.566	Status	In Uploading file name : BIO_1_260821_2_image1.jpg
+2021-09-17 19:21:13.600	Error	Error In UploadwebcamImageOnServer - System.InvalidOperationException: An invalid request URI was provided. The request URI must either be an absolute URI or BaseAddress must be set.
+   at System.Net.Http.HttpClient.PrepareRequestMessage(HttpRequestMessage request)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.PostAsync(String requestUri, HttpContent content)
+   at WeighBridgeApplication.Form1.<UploadwebImageOnServer>d__79.MoveNext() in D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\Form1.cs:line 2158
+2021-09-17 19:21:13.600	Status	In UploadwebcamImageOnServer()
+2021-09-17 19:21:13.600	Status	In Uploading file name : BIO_1_260821_2_image2.jpg
+2021-09-17 19:21:13.618	Error	Error In UploadwebcamImageOnServer - System.InvalidOperationException: An invalid request URI was provided. The request URI must either be an absolute URI or BaseAddress must be set.
+   at System.Net.Http.HttpClient.PrepareRequestMessage(HttpRequestMessage request)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.PostAsync(String requestUri, HttpContent content)
+   at WeighBridgeApplication.Form1.<UploadwebImageOnServer>d__79.MoveNext() in D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\Form1.cs:line 2158
+2021-09-17 19:21:13.618	Status	In UploadwebcamImageOnServer()
+2021-09-17 19:21:13.618	Status	In Uploading file name : BIO_1_260821_3_image1.jpg
+2021-09-17 19:21:13.643	Error	Error In UploadwebcamImageOnServer - System.InvalidOperationException: An invalid request URI was provided. The request URI must either be an absolute URI or BaseAddress must be set.
+   at System.Net.Http.HttpClient.PrepareRequestMessage(HttpRequestMessage request)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.PostAsync(String requestUri, HttpContent content)
+   at WeighBridgeApplication.Form1.<UploadwebImageOnServer>d__79.MoveNext() in D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\Form1.cs:line 2158
+2021-09-17 19:21:13.643	Status	In UploadwebcamImageOnServer()
+2021-09-17 19:21:13.643	Status	In Uploading file name : BIO_1_260821_3_image2.jpg
+2021-09-17 19:21:13.669	Error	Error In UploadwebcamImageOnServer - System.InvalidOperationException: An invalid request URI was provided. The request URI must either be an absolute URI or BaseAddress must be set.
+   at System.Net.Http.HttpClient.PrepareRequestMessage(HttpRequestMessage request)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.PostAsync(String requestUri, HttpContent content)
+   at WeighBridgeApplication.Form1.<UploadwebImageOnServer>d__79.MoveNext() in D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\Form1.cs:line 2158
+2021-09-17 19:21:13.669	Status	In UploadwebcamImageOnServer()
+2021-09-17 19:21:13.669	Status	In Uploading file name : BIO_1_260821_4_image1.jpg
+2021-09-17 19:21:13.695	Error	Error In UploadwebcamImageOnServer - System.InvalidOperationException: An invalid request URI was provided. The request URI must either be an absolute URI or BaseAddress must be set.
+   at System.Net.Http.HttpClient.PrepareRequestMessage(HttpRequestMessage request)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.PostAsync(String requestUri, HttpContent content)
+   at WeighBridgeApplication.Form1.<UploadwebImageOnServer>d__79.MoveNext() in D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\Form1.cs:line 2158
+2021-09-17 19:21:13.695	Status	In UploadwebcamImageOnServer()
+2021-09-17 19:21:13.695	Status	In Uploading file name : BIO_1_260821_4_image2.jpg
+2021-09-17 19:21:13.720	Error	Error In UploadwebcamImageOnServer - System.InvalidOperationException: An invalid request URI was provided. The request URI must either be an absolute URI or BaseAddress must be set.
+   at System.Net.Http.HttpClient.PrepareRequestMessage(HttpRequestMessage request)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.PostAsync(String requestUri, HttpContent content)
+   at WeighBridgeApplication.Form1.<UploadwebImageOnServer>d__79.MoveNext() in D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\Form1.cs:line 2158
+2021-09-17 19:21:13.721	Status	In loadPendingJobs
+2021-09-17 19:21:13.722	Status	In OpenConnection
+2021-09-17 19:21:13.722	Status	DbConnection open successfully
+2021-09-17 19:21:13.728	Status	Pending Jobs loaded successfully
+2021-09-17 19:21:13.728	Status	Connection closed successfully
+2021-09-17 19:21:13.728	Status	In loadCompletedJobs
+2021-09-17 19:21:13.728	Status	In OpenConnection
+2021-09-17 19:21:13.729	Status	DbConnection open successfully
+2021-09-17 19:21:13.741	Status	Completed Jobs loaded successfully
+2021-09-17 19:21:13.742	Status	Connection closed successfully
+2021-09-17 19:21:15.080	Status	readPort() DateTime- 17-09-2021 19:21:15 result-123456
+2021-09-17 19:21:16.177	Status	readPort() DateTime- 17-09-2021 19:21:16 result-345670
+2021-09-17 19:21:16.305	Status	In loadVehivle
+2021-09-17 19:21:16.305	Status	In OpenConnection
+2021-09-17 19:21:16.306	Status	DbConnection open successfully
+2021-09-17 19:21:16.309	Status	In OpenConnection
+2021-09-17 19:21:16.344	Error	Error In OpenConnection :The connection is already open.
+2021-09-17 19:21:16.367	Status	In OpenConnection
+2021-09-17 19:21:16.368	Status	DbConnection open successfully
+2021-09-17 19:21:16.409	Status	In loadVehivle Complete
+2021-09-17 19:21:16.409	Status	Connection closed successfully
+2021-09-17 19:21:16.874	Status	In loadVehivle
+2021-09-17 19:21:16.874	Status	In OpenConnection
+2021-09-17 19:21:16.874	Status	DbConnection open successfully
+2021-09-17 19:21:16.886	Status	In OpenConnection
+2021-09-17 19:21:16.947	Error	Error In OpenConnection :The connection is already open.
+2021-09-17 19:21:16.970	Status	In OpenConnection
+2021-09-17 19:21:16.970	Status	DbConnection open successfully
+2021-09-17 19:21:17.012	Status	In loadVehivle Complete
+2021-09-17 19:21:17.012	Status	Connection closed successfully
+2021-09-17 19:21:17.157	Status	readPort() DateTime- 17-09-2021 19:21:17 result-9876
+2021-09-17 19:21:17.272	Status	readPort() DateTime- 17-09-2021 19:21:17 result-54
+2021-09-17 19:21:18.740	Status	In loadPendingJobs
+2021-09-17 19:21:18.740	Status	In OpenConnection
+2021-09-17 19:21:18.740	Status	DbConnection open successfully
+2021-09-17 19:21:18.756	Status	Pending Jobs loaded successfully
+2021-09-17 19:21:18.756	Status	Connection closed successfully
+2021-09-17 19:21:18.756	Status	In loadCompletedJobs
+2021-09-17 19:21:18.756	Status	In OpenConnection
+2021-09-17 19:21:18.756	Status	DbConnection open successfully
+2021-09-17 19:21:18.775	Status	Completed Jobs loaded successfully
+2021-09-17 19:21:18.775	Status	Connection closed successfully
+2021-09-17 19:21:19.261	Status	readPort() DateTime- 17-09-2021 19:21:19 result-123456
+2021-09-17 19:21:19.304	Status	In loadVehivle
+2021-09-17 19:21:19.304	Status	In OpenConnection
+2021-09-17 19:21:19.305	Status	DbConnection open successfully
+2021-09-17 19:21:22.044	Status	In loadVehivle
+2021-09-17 19:21:22.044	Status	In OpenConnection
+2021-09-17 19:21:22.063	Error	Error In OpenConnection :The connection is already open.
+2021-09-17 19:21:25.035	Status	In loadVehivle Complete
+2021-09-17 19:21:25.036	Status	Connection closed successfully
+2021-09-17 19:21:25.036	Status	In loadVehivle Complete
+2021-09-17 19:21:25.036	Status	Connection closed successfully
+2021-09-17 19:21:25.044	Status	readPort() DateTime- 17-09-2021 19:21:25 result-345670
+2021-09-17 19:21:25.048	Status	Timer Triggered Image Upload
+2021-09-17 19:21:25.049	Status	####### Count of Images exist in folder ## : 12
+2021-09-17 19:21:25.049	Status	In UploadwebcamImageOnServer()
+2021-09-17 19:21:25.050	Status	In Uploading file name : BIO_1_160721_3_image1.jpg
+2021-09-17 19:21:25.064	Error	Error In UploadwebcamImageOnServer - System.InvalidOperationException: An invalid request URI was provided. The request URI must either be an absolute URI or BaseAddress must be set.
+   at System.Net.Http.HttpClient.PrepareRequestMessage(HttpRequestMessage request)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.PostAsync(String requestUri, HttpContent content)
+   at WeighBridgeApplication.Form1.<UploadwebImageOnServer>d__79.MoveNext() in D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\Form1.cs:line 2158
+2021-09-17 19:21:25.065	Status	In UploadwebcamImageOnServer()
+2021-09-17 19:21:25.065	Status	In Uploading file name : BIO_1_160721_3_image2.jpg
+2021-09-17 19:21:25.079	Error	Error In UploadwebcamImageOnServer - System.InvalidOperationException: An invalid request URI was provided. The request URI must either be an absolute URI or BaseAddress must be set.
+   at System.Net.Http.HttpClient.PrepareRequestMessage(HttpRequestMessage request)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.PostAsync(String requestUri, HttpContent content)
+   at WeighBridgeApplication.Form1.<UploadwebImageOnServer>d__79.MoveNext() in D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\Form1.cs:line 2158
+2021-09-17 19:21:25.079	Status	In UploadwebcamImageOnServer()
+2021-09-17 19:21:25.079	Status	In Uploading file name : BIO_1_160721_3_image4.jpg
+2021-09-17 19:21:25.094	Error	Error In UploadwebcamImageOnServer - System.InvalidOperationException: An invalid request URI was provided. The request URI must either be an absolute URI or BaseAddress must be set.
+   at System.Net.Http.HttpClient.PrepareRequestMessage(HttpRequestMessage request)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.PostAsync(String requestUri, HttpContent content)
+   at WeighBridgeApplication.Form1.<UploadwebImageOnServer>d__79.MoveNext() in D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\Form1.cs:line 2158
+2021-09-17 19:21:25.094	Status	In UploadwebcamImageOnServer()
+2021-09-17 19:21:25.094	Status	In Uploading file name : BIO_1_160721_3_image5.jpg
+2021-09-17 19:21:25.110	Error	Error In UploadwebcamImageOnServer - System.InvalidOperationException: An invalid request URI was provided. The request URI must either be an absolute URI or BaseAddress must be set.
+   at System.Net.Http.HttpClient.PrepareRequestMessage(HttpRequestMessage request)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.PostAsync(String requestUri, HttpContent content)
+   at WeighBridgeApplication.Form1.<UploadwebImageOnServer>d__79.MoveNext() in D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\Form1.cs:line 2158
+2021-09-17 19:21:25.110	Status	In UploadwebcamImageOnServer()
+2021-09-17 19:21:25.110	Status	In Uploading file name : BIO_1_260821_1_image1.jpg
+2021-09-17 19:21:25.124	Error	Error In UploadwebcamImageOnServer - System.InvalidOperationException: An invalid request URI was provided. The request URI must either be an absolute URI or BaseAddress must be set.
+   at System.Net.Http.HttpClient.PrepareRequestMessage(HttpRequestMessage request)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.PostAsync(String requestUri, HttpContent content)
+   at WeighBridgeApplication.Form1.<UploadwebImageOnServer>d__79.MoveNext() in D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\Form1.cs:line 2158
+2021-09-17 19:21:25.124	Status	In UploadwebcamImageOnServer()
+2021-09-17 19:21:25.124	Status	In Uploading file name : BIO_1_260821_1_image2.jpg
+2021-09-17 19:21:25.138	Error	Error In UploadwebcamImageOnServer - System.InvalidOperationException: An invalid request URI was provided. The request URI must either be an absolute URI or BaseAddress must be set.
+   at System.Net.Http.HttpClient.PrepareRequestMessage(HttpRequestMessage request)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.PostAsync(String requestUri, HttpContent content)
+   at WeighBridgeApplication.Form1.<UploadwebImageOnServer>d__79.MoveNext() in D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\Form1.cs:line 2158
+2021-09-17 19:21:25.138	Status	In UploadwebcamImageOnServer()
+2021-09-17 19:21:25.139	Status	In Uploading file name : BIO_1_260821_2_image1.jpg
+2021-09-17 19:21:25.152	Error	Error In UploadwebcamImageOnServer - System.InvalidOperationException: An invalid request URI was provided. The request URI must either be an absolute URI or BaseAddress must be set.
+   at System.Net.Http.HttpClient.PrepareRequestMessage(HttpRequestMessage request)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.PostAsync(String requestUri, HttpContent content)
+   at WeighBridgeApplication.Form1.<UploadwebImageOnServer>d__79.MoveNext() in D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\Form1.cs:line 2158
+2021-09-17 19:21:25.152	Status	In UploadwebcamImageOnServer()
+2021-09-17 19:21:25.152	Status	In Uploading file name : BIO_1_260821_2_image2.jpg
+2021-09-17 19:21:25.166	Error	Error In UploadwebcamImageOnServer - System.InvalidOperationException: An invalid request URI was provided. The request URI must either be an absolute URI or BaseAddress must be set.
+   at System.Net.Http.HttpClient.PrepareRequestMessage(HttpRequestMessage request)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.PostAsync(String requestUri, HttpContent content)
+   at WeighBridgeApplication.Form1.<UploadwebImageOnServer>d__79.MoveNext() in D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\Form1.cs:line 2158
+2021-09-17 19:21:25.166	Status	In UploadwebcamImageOnServer()
+2021-09-17 19:21:25.166	Status	In Uploading file name : BIO_1_260821_3_image1.jpg
+2021-09-17 19:21:25.180	Error	Error In UploadwebcamImageOnServer - System.InvalidOperationException: An invalid request URI was provided. The request URI must either be an absolute URI or BaseAddress must be set.
+   at System.Net.Http.HttpClient.PrepareRequestMessage(HttpRequestMessage request)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.PostAsync(String requestUri, HttpContent content)
+   at WeighBridgeApplication.Form1.<UploadwebImageOnServer>d__79.MoveNext() in D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\Form1.cs:line 2158
+2021-09-17 19:21:25.180	Status	In UploadwebcamImageOnServer()
+2021-09-17 19:21:25.181	Status	In Uploading file name : BIO_1_260821_3_image2.jpg
+2021-09-17 19:21:25.194	Error	Error In UploadwebcamImageOnServer - System.InvalidOperationException: An invalid request URI was provided. The request URI must either be an absolute URI or BaseAddress must be set.
+   at System.Net.Http.HttpClient.PrepareRequestMessage(HttpRequestMessage request)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.PostAsync(String requestUri, HttpContent content)
+   at WeighBridgeApplication.Form1.<UploadwebImageOnServer>d__79.MoveNext() in D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\Form1.cs:line 2158
+2021-09-17 19:21:25.194	Status	In UploadwebcamImageOnServer()
+2021-09-17 19:21:25.195	Status	In Uploading file name : BIO_1_260821_4_image1.jpg
+2021-09-17 19:21:25.208	Error	Error In UploadwebcamImageOnServer - System.InvalidOperationException: An invalid request URI was provided. The request URI must either be an absolute URI or BaseAddress must be set.
+   at System.Net.Http.HttpClient.PrepareRequestMessage(HttpRequestMessage request)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.PostAsync(String requestUri, HttpContent content)
+   at WeighBridgeApplication.Form1.<UploadwebImageOnServer>d__79.MoveNext() in D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\Form1.cs:line 2158
+2021-09-17 19:21:25.209	Status	In UploadwebcamImageOnServer()
+2021-09-17 19:21:25.209	Status	In Uploading file name : BIO_1_260821_4_image2.jpg
+2021-09-17 19:21:25.222	Error	Error In UploadwebcamImageOnServer - System.InvalidOperationException: An invalid request URI was provided. The request URI must either be an absolute URI or BaseAddress must be set.
+   at System.Net.Http.HttpClient.PrepareRequestMessage(HttpRequestMessage request)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.PostAsync(String requestUri, HttpContent content)
+   at WeighBridgeApplication.Form1.<UploadwebImageOnServer>d__79.MoveNext() in D:\Prafull\PCMC\PCMC Application New\WeighBridgeApplication\WeighBridgeApplication\Form1.cs:line 2158
+2021-09-17 19:21:25.223	Status	In loadPendingJobs
+2021-09-17 19:21:25.223	Status	In OpenConnection
+2021-09-17 19:21:25.224	Status	DbConnection open successfully
+2021-09-17 19:21:25.229	Status	Pending Jobs loaded successfully
+2021-09-17 19:21:25.230	Status	Connection closed successfully
+2021-09-17 19:21:25.230	Status	In loadCompletedJobs
+2021-09-17 19:21:25.230	Status	In OpenConnection
+2021-09-17 19:21:25.230	Status	DbConnection open successfully
+2021-09-17 19:21:25.243	Status	Completed Jobs loaded successfully
+2021-09-17 19:21:25.244	Status	Connection closed successfully
+2021-09-17 19:21:25.380	Status	readPort() DateTime- 17-09-2021 19:21:25 result-987654
+2021-09-17 19:21:27.465	Status	readPort() DateTime- 17-09-2021 19:21:27 result-123456
+2021-09-17 19:21:28.478	Status	readPort() DateTime- 17-09-2021 19:21:28 result-345670
+2021-09-17 19:21:29.537	Status	readPort() DateTime- 17-09-2021 19:21:29 result-987654
+2021-09-17 19:21:30.260	Status	In loadPendingJobs
+2021-09-17 19:21:30.261	Status	In OpenConnection
+2021-09-17 19:21:30.262	Status	DbConnection open successfully
+2021-09-17 19:21:30.284	Status	Pending Jobs loaded successfully
+2021-09-17 19:21:30.285	Status	Connection closed successfully
+2021-09-17 19:21:30.286	Status	In loadCompletedJobs
+2021-09-17 19:21:30.286	Status	In OpenConnection
+2021-09-17 19:21:30.288	Status	DbConnection open successfully
+2021-09-17 19:21:30.319	Status	Completed Jobs loaded successfully
+2021-09-17 19:21:30.319	Status	Connection closed successfully
+2021-09-17 19:21:30.527	Status	In loadVehivle
+2021-09-17 19:21:30.528	Status	In OpenConnection
+2021-09-17 19:21:30.540	Status	DbConnection open successfully
+2021-09-17 19:21:30.543	Status	In loadVehivle Complete
+2021-09-17 19:21:30.543	Status	Connection closed successfully
+2021-09-17 19:21:31.561	Status	readPort() DateTime- 17-09-2021 19:21:31 result-123456
+2021-09-17 19:21:32.551	Status	readPort() DateTime- 17-09-2021 19:21:32 result-345670
+2021-09-17 19:21:33.660	Status	readPort() DateTime- 17-09-2021 19:21:33 result-987654

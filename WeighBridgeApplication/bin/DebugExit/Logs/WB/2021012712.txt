@@ -1,0 +1,56 @@
+
+2021-01-27 12:45:50.239	Status	Init start
+2021-01-27 12:45:50.621	Status	Init Successfull
+2021-01-27 12:45:50.651	Status	In Form1_Load 
+2021-01-27 12:45:50.806	Status	In StartTimerFor_WeighBridge()
+2021-01-27 12:45:50.954	Status	In StartTimerFor_RFIDReader()
+2021-01-27 12:45:50.960	Status	RFID Reader Connected successfully
+2021-01-27 12:45:51.024	Status	In StartTimerFor_Uploading_Images()
+2021-01-27 12:45:51.032	Status	Uploading images Timer : 10 Seconds
+2021-01-27 12:45:51.045	Status	In setLatestSlipNo
+2021-01-27 12:45:51.051	Status	In OpenConnection
+2021-01-27 12:45:51.167	Status	DbConnection open successfully
+2021-01-27 12:45:51.203	Status	setLatestSlipNo successfully
+2021-01-27 12:45:51.208	Status	In StartTimerFor_WeighBridge()
+2021-01-27 12:45:51.214	Status	In OpenConnection
+2021-01-27 12:45:51.219	Status	DbConnection open successfully
+2021-01-27 12:45:51.231	Status	In OpenConnection
+2021-01-27 12:45:51.236	Status	DbConnection open successfully
+2021-01-27 12:45:51.258	Status	In loadPendingJobs
+2021-01-27 12:45:51.263	Status	In OpenConnection
+2021-01-27 12:45:51.268	Status	DbConnection open successfully
+2021-01-27 12:45:51.280	Status	Pending Jobs loaded successfully
+2021-01-27 12:45:51.285	Status	Connection closed successfully
+2021-01-27 12:45:51.290	Status	In loadCompletedJobs
+2021-01-27 12:45:51.294	Status	In OpenConnection
+2021-01-27 12:45:51.298	Status	DbConnection open successfully
+2021-01-27 12:45:51.306	Status	Completed Jobs loaded successfully
+2021-01-27 12:45:51.311	Status	Connection closed successfully
+2021-01-27 12:45:51.315	Status	In Form1_Load complete 
+2021-01-27 12:45:51.446	Status	GetDataReader1 called..
+2021-01-27 12:45:51.575	Status	GetDataReader1 called..
+2021-01-27 12:45:51.688	Status	GetDataReader1 called..
+2021-01-27 12:45:51.795	Status	GetDataReader1 called..
+2021-01-27 12:45:51.903	Status	GetDataReader1 called..
+2021-01-27 12:45:52.017	Status	GetDataReader1 called..
+2021-01-27 12:45:52.125	Status	GetDataReader1 called..
+2021-01-27 12:45:52.230	Status	GetDataReader1 called..
+2021-01-27 12:45:52.343	Status	GetDataReader1 called..
+2021-01-27 12:45:52.453	Status	GetDataReader1 called..
+2021-01-27 12:45:52.564	Status	GetDataReader1 called..
+2021-01-27 12:45:52.670	Status	GetDataReader1 called..
+2021-01-27 12:45:52.778	Status	GetDataReader1 called..
+2021-01-27 12:45:52.889	Status	GetDataReader1 called..
+2021-01-27 12:45:53.002	Status	GetDataReader1 called..
+2021-01-27 12:45:53.107	Status	GetDataReader1 called..
+2021-01-27 12:45:53.215	Status	GetDataReader1 called..
+2021-01-27 12:45:53.326	Status	GetDataReader1 called..
+2021-01-27 12:45:53.433	Status	GetDataReader1 called..
+2021-01-27 12:45:53.544	Status	GetDataReader1 called..
+2021-01-27 12:45:53.652	Status	GetDataReader1 called..
+2021-01-27 12:45:53.766	Status	GetDataReader1 called..
+2021-01-27 12:45:53.870	Status	GetDataReader1 called..
+2021-01-27 12:45:53.984	Status	GetDataReader1 called..
+2021-01-27 12:45:54.093	Status	GetDataReader1 called..
+2021-01-27 12:45:54.219	Status	GetDataReader1 called..
+2021-01-27 12:45:54.324	Status	GetDataReader1 called..

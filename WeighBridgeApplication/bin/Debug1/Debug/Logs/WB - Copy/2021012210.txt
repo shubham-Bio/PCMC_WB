@@ -1,0 +1,246 @@
+
+2021-01-22 10:08:18.630	Status	In loadPendingJobs
+2021-01-22 10:08:18.635	Status	In OpenConnection
+2021-01-22 10:08:18.930	Status	DbConnection open successfully
+2021-01-22 10:08:18.976	Status	Pending Jobs loaded successfully
+2021-01-22 10:08:18.982	Status	Connection closed successfully
+2021-01-22 10:08:18.986	Status	In loadCompletedJobs
+2021-01-22 10:08:18.991	Status	In OpenConnection
+2021-01-22 10:08:18.995	Status	DbConnection open successfully
+2021-01-22 10:08:19.086	Status	Completed Jobs loaded successfully
+2021-01-22 10:08:19.090	Status	Connection closed successfully
+2021-01-22 10:08:59.045	Status	In loadVehivle
+2021-01-22 10:08:59.049	Status	In OpenConnection
+2021-01-22 10:08:59.053	Status	DbConnection open successfully
+2021-01-22 10:08:59.075	Status	In loadVehivle Complete
+2021-01-22 10:08:59.079	Status	Connection closed successfully
+2021-01-22 10:08:59.083	Status	button click start22-01-2021 10:08:59 AM
+2021-01-22 10:09:07.083	Status	button click End22-01-2021 10:09:07 AM
+2021-01-22 10:09:07.090	Status	In loadPendingJobs
+2021-01-22 10:09:07.094	Status	In OpenConnection
+2021-01-22 10:09:07.098	Status	DbConnection open successfully
+2021-01-22 10:09:07.105	Status	Pending Jobs loaded successfully
+2021-01-22 10:09:07.110	Status	Connection closed successfully
+2021-01-22 10:09:07.113	Status	In loadCompletedJobs
+2021-01-22 10:09:07.117	Status	In OpenConnection
+2021-01-22 10:09:07.121	Status	DbConnection open successfully
+2021-01-22 10:09:07.304	Status	Completed Jobs loaded successfully
+2021-01-22 10:09:07.307	Status	Connection closed successfully
+2021-01-22 10:11:44.159	Status	In OpenConnection
+2021-01-22 10:11:44.235	Status	DbConnection open successfully
+2021-01-22 10:11:44.256	Status	In OpenConnection
+2021-01-22 10:11:44.261	Status	DbConnection open successfully
+2021-01-22 10:11:44.279	Status	In loadPendingJobs
+2021-01-22 10:11:44.284	Status	In OpenConnection
+2021-01-22 10:11:44.289	Status	DbConnection open successfully
+2021-01-22 10:11:44.297	Status	Pending Jobs loaded successfully
+2021-01-22 10:11:44.301	Status	Connection closed successfully
+2021-01-22 10:11:44.306	Status	In loadCompletedJobs
+2021-01-22 10:11:44.309	Status	In OpenConnection
+2021-01-22 10:11:44.314	Status	DbConnection open successfully
+2021-01-22 10:11:44.393	Status	Completed Jobs loaded successfully
+2021-01-22 10:11:44.398	Status	Connection closed successfully
+2021-01-22 10:12:00.483	Status	In loadVehivle
+2021-01-22 10:12:00.497	Status	In OpenConnection
+2021-01-22 10:12:00.513	Status	DbConnection open successfully
+2021-01-22 10:12:00.539	Status	In loadVehivle Complete
+2021-01-22 10:12:00.547	Status	Connection closed successfully
+2021-01-22 10:12:00.556	Status	button click start22-01-2021 10:12:00 AM
+2021-01-22 10:12:08.556	Status	button click End22-01-2021 10:12:08 AM
+2021-01-22 10:12:08.562	Status	In loadPendingJobs
+2021-01-22 10:12:08.566	Status	In OpenConnection
+2021-01-22 10:12:08.570	Status	DbConnection open successfully
+2021-01-22 10:12:08.578	Status	Pending Jobs loaded successfully
+2021-01-22 10:12:08.582	Status	Connection closed successfully
+2021-01-22 10:12:08.586	Status	In loadCompletedJobs
+2021-01-22 10:12:08.589	Status	In OpenConnection
+2021-01-22 10:12:08.595	Status	DbConnection open successfully
+2021-01-22 10:12:08.768	Status	Completed Jobs loaded successfully
+2021-01-22 10:12:08.772	Status	Connection closed successfully
+2021-01-22 10:13:06.254	Status	In OpenConnection
+2021-01-22 10:13:06.347	Status	DbConnection open successfully
+2021-01-22 10:13:06.368	Status	In OpenConnection
+2021-01-22 10:13:06.373	Status	DbConnection open successfully
+2021-01-22 10:13:06.390	Status	In loadPendingJobs
+2021-01-22 10:13:06.395	Status	In OpenConnection
+2021-01-22 10:13:06.401	Status	DbConnection open successfully
+2021-01-22 10:13:06.409	Status	Pending Jobs loaded successfully
+2021-01-22 10:13:06.414	Status	Connection closed successfully
+2021-01-22 10:13:06.420	Status	In loadCompletedJobs
+2021-01-22 10:13:06.425	Status	In OpenConnection
+2021-01-22 10:13:06.430	Status	DbConnection open successfully
+2021-01-22 10:13:06.521	Status	Completed Jobs loaded successfully
+2021-01-22 10:13:06.525	Status	Connection closed successfully
+2021-01-22 10:13:48.747	Status	In loadVehivle
+2021-01-22 10:13:48.752	Status	In OpenConnection
+2021-01-22 10:13:48.756	Status	DbConnection open successfully
+2021-01-22 10:13:48.763	Status	In loadVehivle Complete
+2021-01-22 10:13:48.768	Status	Connection closed successfully
+2021-01-22 10:13:48.772	Status	button click start22-01-2021 10:13:48 AM
+2021-01-22 10:13:54.536	Status	In OpenConnection
+2021-01-22 10:13:54.541	Status	DbConnection open successfully
+2021-01-22 10:13:54.708	Status	######## Sending LOG : {"weight_slip_id":null,"weighbridge_id":"1","weigh_slip_number":"BIO/1/01012019/1","trans_type":"1","vehicle_by":"PCMC","rfid":"02DC0010","vehicle_no":"MH14HU0527","material_id":null,"material_name":"C&D Waste","from_id":"Trip1","from_name":"Trip1","to_name":"trip1","first_weight":"10","second_weight":null,"first_weight_datetime":"2000-01-12 13:55:01","second_weight_datetime":null,"net_weight":null,"status":"1","slip_number":null,"is_deleted":null,"shift_id":null,"updated_by":null,"image1":"BIO_1_01012019_1_image1.jpg","image2":"BIO_1_01012019_1_image2.jpg","image3":"BIO_1_01012019_1_image3.jpg","image4":null,"image5":null,"image6":null}
+2021-01-22 10:13:54.716	Status	#####ALERT SENDING TO SERVER####{"weight_slip_id":null,"weighbridge_id":"1","weigh_slip_number":"BIO/1/01012019/1","trans_type":"1","vehicle_by":"PCMC","rfid":"02DC0010","vehicle_no":"MH14HU0527","material_id":null,"material_name":"C&D Waste","from_id":"Trip1","from_name":"Trip1","to_name":"trip1","first_weight":"10","second_weight":null,"first_weight_datetime":"2000-01-12 13:55:01","second_weight_datetime":null,"net_weight":null,"status":"1","slip_number":null,"is_deleted":null,"shift_id":null,"updated_by":null,"image1":"BIO_1_01012019_1_image1.jpg","image2":"BIO_1_01012019_1_image2.jpg","image3":"BIO_1_01012019_1_image3.jpg","image4":null,"image5":null,"image6":null}
+2021-01-22 10:13:54.795	Error	Error in SendData - Invalid URI: The URI is empty.
+2021-01-22 10:13:54.839	Status	In loadPendingJobs
+2021-01-22 10:13:54.844	Status	In OpenConnection
+2021-01-22 10:13:54.849	Status	DbConnection open successfully
+2021-01-22 10:13:54.856	Status	Pending Jobs loaded successfully
+2021-01-22 10:13:54.860	Status	Connection closed successfully
+2021-01-22 10:13:54.865	Status	In loadCompletedJobs
+2021-01-22 10:13:54.869	Status	In OpenConnection
+2021-01-22 10:13:54.874	Status	DbConnection open successfully
+2021-01-22 10:13:55.050	Status	Completed Jobs loaded successfully
+2021-01-22 10:13:55.055	Status	Connection closed successfully
+2021-01-22 10:13:56.773	Status	button click End22-01-2021 10:13:56 AM
+2021-01-22 10:13:56.777	Status	In OpenConnection
+2021-01-22 10:13:56.782	Status	DbConnection open successfully
+2021-01-22 10:13:56.786	Status	######## Sending LOG : {"weight_slip_id":null,"weighbridge_id":"1","weigh_slip_number":"BIO/1/01012019/1","trans_type":"1","vehicle_by":"PCMC","rfid":"02DC0010","vehicle_no":"MH14HU0527","material_id":null,"material_name":"C&D Waste","from_id":"Trip1","from_name":"Trip1","to_name":"trip1","first_weight":"10","second_weight":null,"first_weight_datetime":"2000-01-12 13:55:01","second_weight_datetime":null,"net_weight":null,"status":"1","slip_number":null,"is_deleted":null,"shift_id":null,"updated_by":null,"image1":"BIO_1_01012019_1_image1.jpg","image2":"BIO_1_01012019_1_image2.jpg","image3":"BIO_1_01012019_1_image3.jpg","image4":null,"image5":null,"image6":null}
+2021-01-22 10:13:56.790	Status	#####ALERT SENDING TO SERVER####{"weight_slip_id":null,"weighbridge_id":"1","weigh_slip_number":"BIO/1/01012019/1","trans_type":"1","vehicle_by":"PCMC","rfid":"02DC0010","vehicle_no":"MH14HU0527","material_id":null,"material_name":"C&D Waste","from_id":"Trip1","from_name":"Trip1","to_name":"trip1","first_weight":"10","second_weight":null,"first_weight_datetime":"2000-01-12 13:55:01","second_weight_datetime":null,"net_weight":null,"status":"1","slip_number":null,"is_deleted":null,"shift_id":null,"updated_by":null,"image1":"BIO_1_01012019_1_image1.jpg","image2":"BIO_1_01012019_1_image2.jpg","image3":"BIO_1_01012019_1_image3.jpg","image4":null,"image5":null,"image6":null}
+2021-01-22 10:13:56.824	Error	Error in SendData - Invalid URI: The URI is empty.
+2021-01-22 10:13:56.834	Status	In loadPendingJobs
+2021-01-22 10:13:56.838	Status	In OpenConnection
+2021-01-22 10:13:56.843	Status	DbConnection open successfully
+2021-01-22 10:13:56.851	Status	Pending Jobs loaded successfully
+2021-01-22 10:13:56.855	Status	Connection closed successfully
+2021-01-22 10:13:56.859	Status	In loadCompletedJobs
+2021-01-22 10:13:56.864	Status	In OpenConnection
+2021-01-22 10:13:56.870	Status	DbConnection open successfully
+2021-01-22 10:13:57.044	Status	Completed Jobs loaded successfully
+2021-01-22 10:13:57.048	Status	Connection closed successfully
+2021-01-22 10:38:35.415	Status	In OpenConnection
+2021-01-22 10:38:35.640	Status	DbConnection open successfully
+2021-01-22 10:38:35.691	Status	In OpenConnection
+2021-01-22 10:38:35.697	Status	DbConnection open successfully
+2021-01-22 10:38:35.727	Status	In loadPendingJobs
+2021-01-22 10:38:35.732	Status	In OpenConnection
+2021-01-22 10:38:35.737	Status	DbConnection open successfully
+2021-01-22 10:38:35.753	Status	Pending Jobs loaded successfully
+2021-01-22 10:38:35.758	Status	Connection closed successfully
+2021-01-22 10:38:35.763	Status	In loadCompletedJobs
+2021-01-22 10:38:35.768	Status	In OpenConnection
+2021-01-22 10:38:35.773	Status	DbConnection open successfully
+2021-01-22 10:38:35.858	Status	Completed Jobs loaded successfully
+2021-01-22 10:38:35.863	Status	Connection closed successfully
+2021-01-22 10:38:55.312	Status	In loadVehivle
+2021-01-22 10:38:55.317	Status	In OpenConnection
+2021-01-22 10:38:55.322	Status	DbConnection open successfully
+2021-01-22 10:38:55.332	Status	In loadVehivle Complete
+2021-01-22 10:38:55.337	Status	Connection closed successfully
+2021-01-22 10:39:25.996	Status	In loadPendingJobs
+2021-01-22 10:39:26.001	Status	In OpenConnection
+2021-01-22 10:39:26.007	Status	DbConnection open successfully
+2021-01-22 10:39:26.021	Status	Pending Jobs loaded successfully
+2021-01-22 10:39:26.026	Status	Connection closed successfully
+2021-01-22 10:39:26.032	Status	In loadCompletedJobs
+2021-01-22 10:39:26.036	Status	In OpenConnection
+2021-01-22 10:39:26.041	Status	DbConnection open successfully
+2021-01-22 10:39:26.211	Status	Completed Jobs loaded successfully
+2021-01-22 10:39:26.216	Status	Connection closed successfully
+2021-01-22 10:39:54.372	Status	In OpenConnection
+2021-01-22 10:39:54.383	Status	DbConnection open successfully
+2021-01-22 10:42:19.498	Status	In OpenConnection
+2021-01-22 10:42:19.591	Status	DbConnection open successfully
+2021-01-22 10:42:19.612	Status	In OpenConnection
+2021-01-22 10:42:19.617	Status	DbConnection open successfully
+2021-01-22 10:42:19.635	Status	In loadPendingJobs
+2021-01-22 10:42:19.642	Status	In OpenConnection
+2021-01-22 10:42:19.647	Status	DbConnection open successfully
+2021-01-22 10:42:19.662	Status	Pending Jobs loaded successfully
+2021-01-22 10:42:19.667	Status	Connection closed successfully
+2021-01-22 10:42:19.672	Status	In loadCompletedJobs
+2021-01-22 10:42:19.677	Status	In OpenConnection
+2021-01-22 10:42:19.682	Status	DbConnection open successfully
+2021-01-22 10:42:19.760	Status	Completed Jobs loaded successfully
+2021-01-22 10:42:19.765	Status	Connection closed successfully
+2021-01-22 10:43:21.779	Status	In OpenConnection
+2021-01-22 10:44:14.774	Status	DbConnection open successfully
+2021-01-22 10:44:14.809	Status	In OpenConnection
+2021-01-22 10:44:14.814	Status	DbConnection open successfully
+2021-01-22 10:44:14.833	Status	In loadPendingJobs
+2021-01-22 10:44:14.837	Status	In OpenConnection
+2021-01-22 10:44:14.842	Status	DbConnection open successfully
+2021-01-22 10:44:14.855	Status	Pending Jobs loaded successfully
+2021-01-22 10:44:14.859	Status	Connection closed successfully
+2021-01-22 10:44:14.864	Status	In loadCompletedJobs
+2021-01-22 10:44:14.868	Status	In OpenConnection
+2021-01-22 10:44:14.873	Status	DbConnection open successfully
+2021-01-22 10:44:14.954	Status	Completed Jobs loaded successfully
+2021-01-22 10:44:14.959	Status	Connection closed successfully
+2021-01-22 10:44:34.948	Status	In loadVehivle
+2021-01-22 10:44:34.969	Status	In OpenConnection
+2021-01-22 10:44:34.974	Status	DbConnection open successfully
+2021-01-22 10:44:34.982	Status	In loadVehivle Complete
+2021-01-22 10:44:34.987	Status	Connection closed successfully
+2021-01-22 10:44:43.767	Status	In loadVehivle
+2021-01-22 10:44:43.774	Status	In OpenConnection
+2021-01-22 10:44:43.782	Status	DbConnection open successfully
+2021-01-22 10:44:43.789	Status	In loadVehivle Complete
+2021-01-22 10:44:49.890	Status	Connection closed successfully
+2021-01-22 10:45:32.735	Status	In OpenConnection
+2021-01-22 10:45:32.758	Status	DbConnection open successfully
+2021-01-22 10:45:39.505	Status	######## Sending LOG : {"weight_slip_id":null,"weighbridge_id":"1","weigh_slip_number":"BIO/1/01012019/1","trans_type":"1","vehicle_by":"PCMC","rfid":"02DC0010","vehicle_no":"MH14HU0527","material_id":null,"material_name":"C&D Waste","from_id":"Trip1","from_name":"Trip1","to_name":"trip1","first_weight":"10","second_weight":null,"first_weight_datetime":"2021-01-22 10:45:32","second_weight_datetime":null,"net_weight":null,"status":"1","slip_number":null,"is_deleted":null,"shift_id":null,"updated_by":null,"image1":"BIO_1_01012019_1_image1.jpg","image2":"BIO_1_01012019_1_image2.jpg","image3":"BIO_1_01012019_1_image3.jpg","image4":null,"image5":null,"image6":null}
+2021-01-22 10:45:40.782	Status	#####ALERT SENDING TO SERVER####{"weight_slip_id":null,"weighbridge_id":"1","weigh_slip_number":"BIO/1/01012019/1","trans_type":"1","vehicle_by":"PCMC","rfid":"02DC0010","vehicle_no":"MH14HU0527","material_id":null,"material_name":"C&D Waste","from_id":"Trip1","from_name":"Trip1","to_name":"trip1","first_weight":"10","second_weight":null,"first_weight_datetime":"2021-01-22 10:45:32","second_weight_datetime":null,"net_weight":null,"status":"1","slip_number":null,"is_deleted":null,"shift_id":null,"updated_by":null,"image1":"BIO_1_01012019_1_image1.jpg","image2":"BIO_1_01012019_1_image2.jpg","image3":"BIO_1_01012019_1_image3.jpg","image4":null,"image5":null,"image6":null}
+2021-01-22 10:45:40.817	Error	Error in SendData - Invalid URI: The URI is empty.
+2021-01-22 10:52:18.661	Status	In OpenConnection
+2021-01-22 10:52:21.289	Status	DbConnection open successfully
+2021-01-22 10:52:21.309	Status	In OpenConnection
+2021-01-22 10:52:21.315	Status	DbConnection open successfully
+2021-01-22 10:52:21.337	Status	In loadPendingJobs
+2021-01-22 10:52:21.341	Status	In OpenConnection
+2021-01-22 10:52:21.346	Status	DbConnection open successfully
+2021-01-22 10:52:21.360	Status	Pending Jobs loaded successfully
+2021-01-22 10:52:21.365	Status	Connection closed successfully
+2021-01-22 10:52:21.370	Status	In loadCompletedJobs
+2021-01-22 10:52:21.374	Status	In OpenConnection
+2021-01-22 10:52:21.379	Status	DbConnection open successfully
+2021-01-22 10:52:21.484	Status	Completed Jobs loaded successfully
+2021-01-22 10:52:21.489	Status	Connection closed successfully
+2021-01-22 10:52:25.858	Status	In loadVehivle
+2021-01-22 10:52:25.863	Status	In OpenConnection
+2021-01-22 10:52:25.868	Status	DbConnection open successfully
+2021-01-22 10:52:25.876	Status	In loadVehivle Complete
+2021-01-22 10:52:28.845	Status	Connection closed successfully
+2021-01-22 10:53:21.083	Status	In OpenConnection
+2021-01-22 10:53:21.095	Status	DbConnection open successfully
+2021-01-22 10:53:40.518	Status	######## Sending LOG : {"weight_slip_id":null,"weighbridge_id":"1","weigh_slip_number":"BIO/1/01012019/1","trans_type":"1","vehicle_by":"PCMC","rfid":"02DC0010","vehicle_no":"MH14HU0527","material_id":null,"material_name":"C&D Waste","from_id":"Trip1","from_name":"Trip1","to_name":"trip1","first_weight":"10","second_weight":null,"first_weight_datetime":"2021-01-22 10:53:21","second_weight_datetime":null,"net_weight":null,"status":"1","slip_number":null,"is_deleted":null,"shift_id":null,"updated_by":null,"image1":"BIO_1_01012019_1_image1.jpg","image2":"BIO_1_01012019_1_image2.jpg","image3":"BIO_1_01012019_1_image3.jpg","image4":null,"image5":null,"image6":null}
+2021-01-22 10:53:40.525	Status	#####ALERT SENDING TO SERVER####{"weight_slip_id":null,"weighbridge_id":"1","weigh_slip_number":"BIO/1/01012019/1","trans_type":"1","vehicle_by":"PCMC","rfid":"02DC0010","vehicle_no":"MH14HU0527","material_id":null,"material_name":"C&D Waste","from_id":"Trip1","from_name":"Trip1","to_name":"trip1","first_weight":"10","second_weight":null,"first_weight_datetime":"2021-01-22 10:53:21","second_weight_datetime":null,"net_weight":null,"status":"1","slip_number":null,"is_deleted":null,"shift_id":null,"updated_by":null,"image1":"BIO_1_01012019_1_image1.jpg","image2":"BIO_1_01012019_1_image2.jpg","image3":"BIO_1_01012019_1_image3.jpg","image4":null,"image5":null,"image6":null}
+2021-01-22 10:53:40.545	Error	Error in SendData - Invalid URI: The URI is empty.
+2021-01-22 10:53:40.557	Status	In loadPendingJobs
+2021-01-22 10:53:48.071	Status	In OpenConnection
+2021-01-22 10:53:48.870	Status	DbConnection open successfully
+2021-01-22 10:53:54.978	Status	Pending Jobs loaded successfully
+2021-01-22 10:53:54.983	Status	Connection closed successfully
+2021-01-22 10:53:54.988	Status	In loadCompletedJobs
+2021-01-22 10:53:54.993	Status	In OpenConnection
+2021-01-22 10:53:54.998	Status	DbConnection open successfully
+2021-01-22 10:53:55.166	Status	Completed Jobs loaded successfully
+2021-01-22 10:53:55.170	Status	Connection closed successfully
+2021-01-22 10:56:54.887	Status	In OpenConnection
+2021-01-22 10:57:04.864	Status	DbConnection open successfully
+2021-01-22 10:57:04.883	Status	In OpenConnection
+2021-01-22 10:57:04.888	Status	DbConnection open successfully
+2021-01-22 10:57:04.911	Status	In loadPendingJobs
+2021-01-22 10:57:04.916	Status	In OpenConnection
+2021-01-22 10:57:04.921	Status	DbConnection open successfully
+2021-01-22 10:57:04.934	Status	Pending Jobs loaded successfully
+2021-01-22 10:57:04.938	Status	Connection closed successfully
+2021-01-22 10:57:04.944	Status	In loadCompletedJobs
+2021-01-22 10:57:04.949	Status	In OpenConnection
+2021-01-22 10:57:04.960	Status	DbConnection open successfully
+2021-01-22 10:57:05.050	Status	Completed Jobs loaded successfully
+2021-01-22 10:57:05.056	Status	Connection closed successfully
+2021-01-22 10:59:31.579	Status	In OpenConnection
+2021-01-22 10:59:35.096	Status	DbConnection open successfully
+2021-01-22 10:59:35.116	Status	In OpenConnection
+2021-01-22 10:59:35.121	Status	DbConnection open successfully
+2021-01-22 10:59:35.144	Status	In loadPendingJobs
+2021-01-22 10:59:35.148	Status	In OpenConnection
+2021-01-22 10:59:35.153	Status	DbConnection open successfully
+2021-01-22 10:59:35.165	Status	Pending Jobs loaded successfully
+2021-01-22 10:59:35.170	Status	Connection closed successfully
+2021-01-22 10:59:35.175	Status	In loadCompletedJobs
+2021-01-22 10:59:35.179	Status	In OpenConnection
+2021-01-22 10:59:35.183	Status	DbConnection open successfully
+2021-01-22 10:59:35.265	Status	Completed Jobs loaded successfully
+2021-01-22 10:59:35.270	Status	Connection closed successfully
